@@ -1,0 +1,11 @@
+- name: 1099 Commerce Park
+  address: 1099 Commerce Park Dr Oak Ridge, TN 37830
+  date: 2015-06-08
+  sold: true
+  price: 1000000
+
+- name: Nathan W. Dougherty Engineering Bldg
+  address: University of Tennessee 1512 Middle Dr Knoxville, TN 37916
+  date: 2015-06-08
+  sold: true
+  price: 10000000

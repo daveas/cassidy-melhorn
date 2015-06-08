@@ -1,0 +1,22 @@
+---
+layout: default
+title: Property Listings
+permalink: /properties/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Properties</h1>
+
+  <ul class="post-list">
+    {% for property in site.data.properties %}
+    <li>
+      <h2>{{ property.title }}</a></h2>
+      <p>{{ property.address }}</p>
+      <p>{{ property.date | date: "%b %-d, %Y" }}</p>
+      <p>{{ property.price }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>

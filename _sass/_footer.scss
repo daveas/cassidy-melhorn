@@ -5,6 +5,9 @@
 .site-footer {
   font-size: $small-size;
   @include center;
+  a {
+    color: $brand-color;
+  }
 }
 
 .footer-meta {
