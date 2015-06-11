@@ -1,0 +1,18 @@
+<div class="container">
+   <div id="content-slider">
+      <div id="slider">  <!-- Slider container -->
+         <div id="mask">  <!-- Mask -->
+         <ul>
+           {% assign num = page.slider-num %}
+           {% for i in (1..num) %}
+         <li id="slider-{{i}}" class="animation-{{i}}">  <!-- ID for tooltip and class for animation -->
+         <a href="#"> <img src="/assets/images/{{ page.slider-dir}}/{{i}}.jpg" alt="Cougar"/> </a>
+         <div class="tooltip"> <h1>Cougar</h1> </div>
+         </li>
+         {% endfor %}
+       </ul>
+         </div>  <!-- End Mask -->
+         <div class="progress-bar"></div>  <!-- Progress Bar -->
+      </div>  <!-- End Slider Container -->
+   </div>
+</div>
