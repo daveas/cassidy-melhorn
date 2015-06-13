@@ -19,6 +19,10 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+collections:
+  properties:
+    output: true
+    permalink: /properties-for-sale/:path/
 gems:
   - jemoji
   - jekyll-sitemap
