@@ -1,9 +1,12 @@
 .site-header {
+  background-color: $back-color;
   border-top: 5px solid $gray-color;
   border-bottom: 1px solid $gray-color;
   min-height: 56px;
-  position: relative;
-}
+  position: fixed;
+  top:0px;
+  width: 100%
+  }
 
 .site-title {
   color: $brand-color;
@@ -12,6 +15,7 @@
   font-size: 26px;
   line-height: 56px;
   margin-bottom: 0;
+  max-width: 30%;
   float: left;
   &:visited {
       color: $brand-color;
@@ -21,6 +25,9 @@
 .site-nav {
   float: right;
   line-height: 56px;
+  margin-top:20px;
+  margin-bottom:20px;
+  max-width: 70%;
 
   .menu-icon {
     display: none;

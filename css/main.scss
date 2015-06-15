@@ -26,9 +26,9 @@ $back-color:      #ffffff;
 $text-color:      #2a2a2a;
 $link-color:      #3498db;
 
-$content-width:    840px;
+$content-width:    960px;
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        900px;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
