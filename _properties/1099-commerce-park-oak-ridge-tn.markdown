@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Need to Sell Your House?"
+layout: property
+title:  "Commercial Property at in Oak Ridge"
 date:   2015-05-27
 address: 1099 Commerce Park Dr
 city: Oak Ridge
@@ -11,4 +11,13 @@ sold: true
 price: 1000000
 ---
 
-![]()
+# 1099 Commerce Park
+
+This property is for sale!
+
+- now
+- and tomorrow
+- yay!
+
+by:
+![vol-homes](/assets/images/icon.png)

@@ -15,56 +15,77 @@
 }
 
 .collapse{
-   display:inline-block;
- }
- .collapse + input{
-   display:none;
- }
- .collapse + input + *{
-   display:none;
- }
- .collapse+ input:checked + *{
-   display:inline-block;
- }
+  display:inline-block;
+}
+.collapse + input{
+  display:none;
+}
+.collapse + input + *{
+  display:none;
+}
+.collapse+ input:checked + *{
+  display:inline-block;
+}
 
- .inline-list {
-   ul {
-     margin: 0;
-     padding: 0;
-     list-style-type: none;
-     li {
-       display: inline;
-     }
-   }
- }
+.inline-list {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li {
+      display: inline;
+    }
+  }
+}
 
- hr {
-   width: 25%;
-   margin: 0 auto;
-   margin-bottom: $spacing-unit*1.2;
-   margin-top: $spacing-unit;
- }
+hr {
+  width: 25%;
+  margin: 0 auto;
+  margin-bottom: $spacing-unit*1.2;
+  margin-top: $spacing-unit;
+}
 
- .site-intro {
-   @include center;
-   p {
-     @include meta;
-   }
- }
+.site-intro {
+  @include center;
+  p {
+    @include meta;
+  }
+}
 
 .window-display {
   height: 450px;
-  img {
-    position: fixed;
-    top:116px;
-    clear: both;
+  background-image: url(/assets/images/home/1.jpg);
+  background-repeat: no-repeat;
+  background-position: 0% 116px;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  background-attachment: fixed;
+  span {
+    color: $back-color;
+    letter-spacing: -1px;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
   }
-  // background-image: url(/assets/images/home/1.jpg);
-  // background-repeat: no-repeat;
-  // background-position: bottom;
-  // -webkit-background-size: contain;
-  // -moz-background-size: contain;
-  // -o-background-size: contain;
-  // background-size: contain;
-  // background-attachment: fixed;
+  h1 {
+    @include center;
+    padding-top: 135px;
+  }
+  p {
+    @include center;
+    margin-top: $spacing-unit
+  }
+  @include media-query($on-laptop) {
+    background-position: 0% 103px;
+    height: 200px;
+    h1 {
+      padding-top: 45px;
+    }
+    p {
+      margin-top: $spacing-unit/2
+    }
+  }
+
 }

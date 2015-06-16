@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Property Listings
-permalink: /properties/
+permalink: /properties-for-sale/
 ---
 
 <div class="home">
@@ -9,12 +9,12 @@ permalink: /properties/
   <h1 class="page-heading">Properties</h1>
 
   <ul class="post-list">
-    {% for property in site.data.properties %}
+    {% assign properties = site.properties | sort: 'date' %}
+    {% for property in properties reversed %}
     <li>
-      <h2>{{ property.title }}</a></h2>
+      <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
+      <p class="post-meta">{{ property.date | date: "%b %-d, %Y" }} • <i class="fa fa-usd"></i>{{ property.price }}</p>
       <p>{{ property.address }}</p>
-      <p>{{ property.date | date: "%b %-d, %Y" }}</p>
-      <p>{{ property.price }}</p>
     </li>
     {% endfor %}
   </ul>
