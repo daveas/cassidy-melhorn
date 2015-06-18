@@ -3,17 +3,16 @@
   top:0px;
   width: 100%;
   background-color: $back-color;
-  border-top: 5px solid $gray-color;
+  border-top: 1px solid $gray-color;
   border-bottom: 1px solid $gray-color;
-  min-height: 56px;
+  height: 80px;
 }
 
 .site-title {
   max-width: 30%;
   float: left;
   img {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    height: 80px;
   }
 }
 
@@ -21,9 +20,8 @@
   vertical-align: center;
   float: right;
   font-size: 20px;
-  line-height: 56px;
-  margin-top:30px;
-  margin-bottom:30px;
+  margin-top:20px;
+  margin-bottom:20px;
   max-width: 70%;
 
   .menu-icon {
@@ -53,7 +51,7 @@
       float: right;
       line-height: 0;
       margin: 0;
-      padding: 5px 10px 5px 10px;
+      // padding: 5px 10px 5px 10px;
       text-align: center;
     }
 
