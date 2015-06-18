@@ -8,18 +8,17 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
 
-html, body {
-	height: 100%;
-	margin: 0;
+html{
+    min-height:100%;/* make sure it is at least as tall as the viewport */
+    position:relative
 }
 
 body {
+    height: 100%;
     font-family: $body-font;
     font-size: $body-size;
     line-height: $line-height;
@@ -28,7 +27,6 @@ body {
     background-color: $back-color;
     -webkit-text-size-adjust: 100%;
 }
-
 
 
 /**
