@@ -14,6 +14,9 @@
   img {
     height: 80px;
   }
+  @include media-query($on-palm) {
+    max-width: 70%;
+  }
 }
 
 .site-nav {
@@ -39,6 +42,7 @@
   }
 
   @include media-query($on-palm) {
+    max-width: 30%;
     position: absolute;
     right: 30px;
     background-color: $back-color;
@@ -51,7 +55,7 @@
       float: right;
       line-height: 0;
       margin: 0;
-      // padding: 5px 10px 5px 10px;
+      padding: 5px 10px 5px 10px;
       text-align: center;
     }
 
