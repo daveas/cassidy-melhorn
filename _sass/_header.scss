@@ -42,7 +42,6 @@
   }
 
   @include media-query($on-palm) {
-    // max-width: 30%;
     position: absolute;
     right: 30px;
     background-color: $back-color;
