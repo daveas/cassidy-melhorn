@@ -109,6 +109,7 @@ hr {
     position: absolute;
     bottom: 40%;
     right: 5%;
+    width: 100%;
   }
 
   p {
@@ -119,12 +120,12 @@ hr {
     font-weight: $small-weight;
     bottom: 5%;
     right: 5%;
+    width: 100%;
   }
 
   span {
     display:inline-block;
     float: right;
-    width: 50%;
     letter-spacing: -1px;
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
@@ -138,18 +139,17 @@ hr {
     }
     p {
       color: $gray-color;
+      font-size: $small-size;
       position: relative;
       text-align: center;
       margin-left: 10px;
-      margin-right: 10px;
       margin-bottom: 10px;
       border: 1px solid $gray-color;
     }
     span {
-      width: 100%;
       text-align: left;
-      float: none;
       background: $back-color;
+      float: none;
     }
   }
 }
