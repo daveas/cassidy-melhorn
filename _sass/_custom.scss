@@ -148,9 +148,10 @@ hr {
       position: relative;
     }
     p {
-      color: $text-color;
-      @include center;
       position: relative;
+      margin: 0 auto;
+      text-align: center;
+      color: $gray-color;
       border: 1px solid $gray-color;
       padding-bottom: 10px;
     }
