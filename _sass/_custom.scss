@@ -45,12 +45,12 @@ hr {
   margin-top: $spacing-unit;
 }
 
-.site-intro {
-  @include center;
-  p {
-    @include meta;
-  }
-}
+// .site-intro {
+//   @include center;
+//   p {
+//     @include meta;
+//   }
+// }
 
 .banner {
   height: 500px;
@@ -101,28 +101,10 @@ hr {
   pointer-events: none;
 }
 
-.home-services {
-  position: relative;
+.services {
   text-align: center;
   .fa-home, .fa-usd, .fa-check {
     color: $brand-color;
-  }
-  ul {
-  }
-  p {
-    position: absolute;
-    color: $back-color;
-    font-size: $body-size;
-    font-weight: $small-weight;
-  }
-  span {
-    display:inline;
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px;
-  }
-  li {
-    padding: 100px;
   }
 }
 
