@@ -113,8 +113,8 @@ hr {
   }
 
   p {
-    position: absolute;
     color: $back-color;
+    position: absolute;
     text-align: left;
     font-size: $body-size;
     font-weight: $small-weight;
@@ -134,22 +134,28 @@ hr {
   
   @include media-query($on-palm) {
     h2 {
-      text-align: left;
       position: relative;
+      text-align: left;
+      line-height: 1;
+      margin: 0;
+      padding: 0;
     }
     p {
       color: $gray-color;
       font-size: $small-size;
       position: relative;
+      display: inline;
       text-align: center;
-      margin-left: 10px;
-      margin-bottom: 10px;
+      // margin-left: 10px;
+      // margin-bottom: 10px;
       border: 1px solid $gray-color;
     }
     span {
+      display: block;
+      margin: 0 auto;
+      float: none;
       text-align: left;
       background: $back-color;
-      float: none;
     }
   }
 }
