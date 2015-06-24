@@ -18,6 +18,3 @@ This property is for sale!
 - now
 - and tomorrow
 - yay!
-
-by:
-![vol-homes](/assets/images/icon.png)

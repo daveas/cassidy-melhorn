@@ -2,20 +2,22 @@
 layout: default
 permalink: /properties-for-sale/:path/
 ---
-<div class="post">
+<div class="home">
+  <div class="post">
 
-  <header class="post-header">
-    <h2>{{ page.title }}</h2>
-    <div class="inline-list">
-      <ul class="post-meta">
-        <li>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} | </li>
-        {% for tag in page.tags %}<a href="/tags/#{{tag | replace: " ", "+" }}"><li><i class="fa fa-tag"></i> {{ tag }} </li></a>{% endfor %}
-      </ul>
-    </div>
-  </header>
+    <header class="post-header">
+      <h2>{{ page.title }}</h2>
+      <div class="inline-list">
+        <ul class="post-meta">
+          <li>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} | </li>
+          {% for tag in page.tags %}<a href="/tags/#{{tag | replace: " ", "+" }}"><li><i class="fa fa-tag"></i> {{ tag }} </li></a>{% endfor %}
+        </ul>
+      </div>
+    </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    <article class="post-content">
+      {{ content }}
+    </article>
 
+  </div>
 </div>
