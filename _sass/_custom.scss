@@ -45,18 +45,12 @@ hr {
   margin-top: $spacing-unit;
 }
 
-// .site-intro {
-//   @include center;
-//   p {
-//     @include meta;
-//   }
-// }
-
 .banner {
   height: 500px;
   span {
     color: $back-color;
     letter-spacing: -1px;
+    display: inline-block;
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
     padding: 5px;
@@ -71,12 +65,8 @@ hr {
     margin: $spacing-unit/2;
   }
   @include media-query($on-laptop) {
-    span {
-    }
     h1 {
       padding-top: 100px;
-    }
-    p {
     }
   }
 }
