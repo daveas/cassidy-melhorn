@@ -141,4 +141,20 @@ hr {
     background: rgba(0, 0, 0, 0.7);
     padding: 10px;
   }
+  
+  @include media-query($on-palm) {
+    h2 {
+      position: relative;
+      padding-bottom: 5px;
+    }
+    p {
+      position: relative;
+      border: 1px solid $gray-color;
+      padding-bottom: 10px;
+    }
+    span {
+      float: none;
+      background: $back-color;
+    }
+  }
 }
