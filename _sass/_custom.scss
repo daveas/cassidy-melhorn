@@ -142,11 +142,12 @@ hr {
       margin-left: 10px;
     }
     p {
+      text-align: center;
       color: $gray-color;
       font-size: $small-size;
       position: relative;
-      display: block;
-      margin: 0 auto;
+      display: inline-block;
+      // margin: 0 auto;
       // margin-left: 10px;
       // margin-bottom: 10px;
       border: 1px solid $gray-color;
