@@ -1,3 +1,3 @@
-# Jekyll Template
+# Vol Homes
 
-:construction: my Jekyll starter template
+:house: website for client, Vol Homes
