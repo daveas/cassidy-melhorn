@@ -144,15 +144,18 @@ hr {
   
   @include media-query($on-palm) {
     h2 {
+      text-align: left;
       position: relative;
-      padding-bottom: 5px;
     }
     p {
+      color: $text-color;
+      @include center;
       position: relative;
       border: 1px solid $gray-color;
       padding-bottom: 10px;
     }
     span {
+      text-align: left;
       float: none;
       background: $back-color;
     }
