@@ -1,1 +1,5 @@
-Text
+**Vol Homes buys distressed properties in Knoxville, TN and surrounding.** We are investors that specialize in property in probate, pre-foreclosure, inherited, etc. We will purchase your unwanted or costly house and make the transaction as simple and transparent as possible. Vol Homes will Never Charge You a Commission the way that brokerages or real estate agents do. Vol Homes is a private company and is in no way affiliated with the University of Tennessee.
+
+**How much does it cost for Vol Homes to buy my house?** We don’t charge you anything. We purchase the house from you in as-is condition. We will then wholesale, rent, or renovate the house depending upon the circumstances. We have teams of contractors that perform all work to fix up the distressed properties that we buy. In return for large amounts of business, our contractors provide these services at a discount. This means that we can make a reasonable profit and still sell the houses that we purchase quickly. Everyone wins.
+
+**At Vol Homes we believe technology helps to streamline and automate the home buying and selling process.** We specialize in buying houses from sellers who need fast cash to solve a pressing problem, so that we can then provide homes to cash buyers and investors below market value.
