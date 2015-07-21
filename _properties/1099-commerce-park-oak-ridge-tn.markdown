@@ -16,4 +16,8 @@ This property is for sale!
 
 - now
 - and tomorrow
-- yay!
+- yay! 
+
+{% capture link %}https://www.google.com/maps?q=Randall Miller %26 Associates&near=300 E Broadway, Logansport, IN 46947{% endcapture %}
+
+<iframe src="{{link}}" height="300" frameborder="0" style="border:0"></iframe>
