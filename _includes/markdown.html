@@ -1,1 +1,1 @@
-{% capture markdown %}{% include {{include.param}}.md %}{% endcapture %}{{ markdown | markdownify }}
+{% capture markdown %}{% include {{include.file}}.md %}{% endcapture %}{{ markdown | markdownify }}
