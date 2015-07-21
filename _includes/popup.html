@@ -1,20 +1,33 @@
 <script>
 setTimeout(function(){
-swal( {
-  html: true
+swal({
   title: "How can we help?",
-  text: "",
-  type: "input",showCancelButton: true,
+  text: "Do you need to sell your house?",
+  type: "info",
+  showCancelButton: true,
+  confirmButtonText: "Yes",
+  cancelButtonText: "No",
   closeOnConfirm: false,
-  animation: "slide-from-top",
-  inputPlaceholder: "name@email.com" },
-  function(inputValue){
-    if (inputValue === false) return false;
-    if (inputValue === "") {
-      swal.showInputError("You need to write something!");
-      return false
+  closeOnCancel: false },
+  function(isConfirm){
+    if (isConfirm) {
+      swal(
+        title: "We can help!,",
+        text: "Whether you need to sell fast or just want the most value for your house, we can help. Click below to signup for our crash course on selling your house.",
+        type: "success"),
+      function(){
+        window.location.href = '/sell-your-house/';
+      }};
+    else {
+      swal(
+        title: "Are you an investor?",
+        text: "We frequently source deals in residential and commercial property. Sign up to get notified as soon as something becomes available.",
+        type: "warning");,
+      function(){
+        window.location.href = '/investors/';
       }
-    swal("Nice!", "You wrote: " + inputValue, "success");
+    }
+  }
   });
 }, 5000);
 </script>
