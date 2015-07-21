@@ -6,3 +6,5 @@ date: 2015-05-27
 sold: true
 price: 1000000
 ---
+
+content
