@@ -1,34 +1,37 @@
 <script>
 setTimeout(function(){
-swal({
-  title: "How can we help?",
-  text: "Do you need to sell your house?",
-  type: "info",
-  animation: "slide-from-top",
-  showCancelButton: true,
-  confirmButtonText: "Yes",
-  cancelButtonText: "No",
-  closeOnConfirm: false,
-  closeOnCancel: false },
-  function(isConfirm){
-    if (isConfirm) {
-      swal(
-        title: "We can help!,",
-        text: "Whether you need to sell fast or just want the most value for your house, we can help. Click below to signup for our crash course on selling your house.",
-        type: "success"),
-      function(){
-        window.location.href = '/sell-your-house/';
-      }};
-    else {
-      swal(
-        title: "Are you an investor?",
-        text: "We frequently source deals in residential and commercial property. Sign up to get notified as soon as something becomes available.",
-        type: "warning");,
-      function(){
-        window.location.href = '/investors/';
+  swal({
+    title: "How can we help?",
+    text: "Do you need to sell your house?",
+    type: "info",
+    animation: "slide-from-top",
+    showCancelButton: true,
+    confirmButtonText: "Yes",
+    cancelButtonText: "No",
+    closeOnConfirm: false,
+    closeOnCancel: false },
+    
+    function(isConfirm){
+      if (isConfirm) {
+        swal(
+          title: "We can help!,",
+          text: "Whether you need to sell fast or just want the most value for your house, we can help. Click below to signup for our crash course on selling your house.",
+          type: "success"
+        ),
+        function(){
+          window.location.href = '/sell-your-house/';
+        }
+      },
+      else {
+        swal(
+          title: "Are you an investor?",
+          text: "We frequently source deals in residential and commercial property. Sign up to get notified as soon as something becomes available.",
+          type: "warning"),
+        function(){
+          window.location.href = '/investors/';
+        }
       }
     }
-  }
-  });
+  );
 }, 5000);
 </script>
