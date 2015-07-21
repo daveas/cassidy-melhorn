@@ -14,8 +14,8 @@ permalink: /properties-for-sale/
     <section id="#{{property.title | downcase | replace: " ", "-" }}">
       <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
       <p class="post-meta">
-        {% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% endif %}<br>
-        {% if page.price %}{{ page.price }}{% endif %}
+        {% if property.date %}{{ property.date | date: "%b %-d, %Y" }}{% endif %}<br>
+        {% if property.price %}{{ property.price }}{% endif %}
       </p>
     </section>
     {% endfor %}
