@@ -31,23 +31,23 @@ setTimeout(function(){
           confirmButtonText: "Yes",
           cancelButtonText: "No",
           closeOnConfirm: false,
-          closeOnCancel: true }//,
+          closeOnCancel: true },
 
-        //   function(isConfirm){
-        //     if (isConfirm) {
-        //       swal({
-        //         title: "We can help!,",
-        //         text: "Whether you need to sell fast or just want the most value for your house, we can help. Click below to signup for our crash course on selling your house.",
-        //         type: "success"
-        //       },
-        //       function(){
-        //         window.location.href = '/investors/';
-        //       });
-        //     }
-        //     else {
-        //       swal("Got it", "Let us know if we can help you in the future", "error");
-        //     }
-        //   }
+          function(isConfirm){
+            if (isConfirm) {
+              swal({
+                title: "We can help!,",
+                text: "Whether you need to sell fast or just want the most value for your house, we can help. Click below to signup for our crash course on selling your house.",
+                type: "success"
+              },
+              function(){
+                window.location.href = '/investors/';
+              });
+            }
+            else {
+              swal({"Got it", "Let us know if we can help you in the future", "error"});
+            }
+          }
         );
       }
   });
