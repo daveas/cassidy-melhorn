@@ -1,4 +1,5 @@
 ---
+layout: property
 title:  "Commercial Property at in Oak Ridge"
 date:   2015-05-27
 address: 1099 Commerce Park Dr
@@ -18,6 +19,4 @@ This property is for sale!
 - and tomorrow
 - yay! 
 
-{% capture link %}https://www.google.com/maps?q=Randall Miller %26 Associates&near=300 E Broadway, Logansport, IN 46947{% endcapture %}
-
-<iframe src="{{link}}" height="300" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps?q=Randall Miller %26 Associates&near=300 E Broadway, Logansport, IN 46947" height="300" frameborder="0" style="border:0"></iframe>
