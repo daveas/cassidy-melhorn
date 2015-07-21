@@ -1,5 +1,4 @@
 ---
-layout: property
 title:  "Commercial Property at in Oak Ridge"
 date:   2015-05-27
 address: 1099 Commerce Park Dr
