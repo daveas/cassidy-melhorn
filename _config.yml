@@ -29,7 +29,6 @@ gems:
   - jekyll-sitemap
 defaults:
   - scope:
-      path: ""
       type: properties
     values:
       layout: property
