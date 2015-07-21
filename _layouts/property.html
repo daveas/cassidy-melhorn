@@ -6,11 +6,11 @@ layout: default
     
     <header class="post-header">
       <h2>{{ page.title }}</h2>
-      <details class="post-meta">
+      <p class="post-meta">
         {% if page.date %}Listed on {{ page.date | date: "%b %-d, %Y" }}{% endif %}<br>
         {% if page.price %}Priced at {{ page.price }}{% endif %}<br>
         {% if page.sold %}SOLD{% elsif page.sold == false %}FOR SALE{% else %}{% endif %}
-      </details>
+      </p>
     </header>
 
     <article class="post-content">
