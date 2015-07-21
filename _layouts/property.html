@@ -6,9 +6,9 @@ layout: default
     
     <header class="post-header">
       <h2>{{ page.title }}</h2>
-      <p class="post-meta">Listed on {{ page.date | date: "%b %-d, %Y" }}</p>
-      <p class="post-meta">Priced at {{ page.price | money }}</p>
-      <p class="post-meta">{% if page.sold == true %}SOLD{% elsif page.sold == false %}FOR SALE{% else %}{% endif %}</p>
+      <p class="post-meta">{% if page.date %}Listed on {{ page.date | date: "%b %-d, %Y" }}{% endif %}</p>
+      <p class="post-meta">{% if page.price %}Priced at {{ page.price }}{% endif %}</p>
+      <p class="post-meta">{% if page.sold %}SOLD{% elsif page.sold == false %}FOR SALE{% else %}{% endif %}</p>
     </header>
 
     <article class="post-content">
