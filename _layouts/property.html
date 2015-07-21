@@ -7,17 +7,16 @@ permalink: /properties-for-sale/:path/
     
     <header class="post-header">
       <h2>{{ page.title }}</h2>
-      <div class="inline-list">
-        <ul class="post-meta">
-          <li>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} | </li>
-          {% for tag in page.tags %}<a href="/tags/#{{tag | replace: " ", "+" }}"><li><i class="fa fa-tag"></i> {{ tag }} </li></a>{% endfor %}
-        </ul>
-      </div>
+      <p class="post-meta">Listed on {{ page.date | date: "%b %-d, %Y" }}</p>
+      <p class="post-meta">Priced at {{ page.price | money }}</p>
+      <p class="post-meta">{% if page.sold == true %}SOLD{% elsif page.sold == false %}FOR SALE{% else %}{% endif %}</p>
     </header>
 
     <article class="post-content">
       {{ content }}
     </article>
+    
+    <iframe height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/{{page.mode}}?key={{site.mapkey}}&q={{page.address | replace: " ", "+" }}" allowfullscreen"></iframe>
 
   </div>
 </div>
