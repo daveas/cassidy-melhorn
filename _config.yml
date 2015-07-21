@@ -10,7 +10,7 @@ mapkey: 'AIzaSyCtcGwRHbo0vJVV0YvFmutoH009c0BAeVY'
 
 # Build settings
 markdown: kramdown
-permalink: /posts/:title/
+permalink: /blog/:title/
 exclude:
   - Gemfile
   - Gemfile.lock
