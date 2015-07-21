@@ -13,10 +13,10 @@ permalink: /properties-for-sale/
     {% for property in properties reversed %}
     <section id="#{{property.title | downcase | replace: " ", "-" }}">
       <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
-      <details class="post-meta">
+      <p class="post-meta">
         {% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% endif %}<br>
-        {% if page.price %}{{ page.price }}{% endif %}<br>
-      </details>
+        {% if page.price %}{{ page.price }}{% endif %}
+      </p>
     </section>
     {% endfor %}
   </div>
