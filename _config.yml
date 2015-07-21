@@ -23,7 +23,12 @@ collections:
   properties:
     output: true
     permalink: /properties-for-sale/:path/
-    layout: property
 gems:
   - jemoji
   - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+      type: properties
+    values:
+      layout: property
