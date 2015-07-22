@@ -6,15 +6,7 @@ swal({
   closeOnConfirm: false,
   animation: "slide-from-top",
   inputPlaceholder: "Write something" },
-  
-  function(inputValue){
-    if (inputValue === false) {
-      return false
-    }
-    if (inputValue === "") {
-      swal.showInputError("You need to write something!");
-      return false   
-    }      
-    swal("Nice!", "You wrote: " + inputValue, "success"); 
-  }
+  (inputValue).ajaxChimp({
+    url: 'http://godownwind.us8.list-manage.com/subscribe/post?u=4c739e501f35f3fdae4eebdfb&amp;id=ec03b561e5'
+  });
 );
