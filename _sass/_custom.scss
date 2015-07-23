@@ -162,13 +162,9 @@ hr {
   }
 }
 
-.button {
+.site-button {
   text-align: center;
   margin: 0 auto;
-  color: $brand-color;
-  background-color: white;
-  border: 2px solid $brand-color;
-  border-radius: 15px;
   display: block;
   width: 175px;
   height: 30px;
@@ -181,9 +177,6 @@ hr {
   -webkit-transition: all 0.3s ease 0s;
 
   &:hover, &:hover, &:focus {
-    color: white;
-    background-color: $brand-color;
-    border: 2px solid white;
     text-decoration: none;
   }
 
@@ -193,7 +186,28 @@ hr {
   padding-top: 80px;
 }
 
-.button-link {
-  text-align: center;
-  margin: 0 auto;
+.button-brand {
+  color: white;
+  background-color: $brand-color;
+  border: 2px solid white;
+  border-radius: 15px;
+    
+  &:hover, &:hover, &:focus {
+    color: $brand-color;
+    background-color: white;
+    border: 2px solid $brand-color;
+  }
+}
+
+.button-white {
+  color: $brand-color;
+  background-color: white;
+  border: 2px solid $brand-color;
+  border-radius: 15px;
+    
+  &:hover, &:hover, &:focus {
+    color: white;
+    background-color: $brand-color;
+    border: 2px solid white;
+  }
 }
