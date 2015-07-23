@@ -163,10 +163,10 @@ hr {
 }
 
 .button {
+  display: inline-block;
   font-size: $body-size;
   text-align: center;
   margin: 0 auto;
-  display: block;
   width: 175px;
   height: 30px;
   line-height: 30px;
