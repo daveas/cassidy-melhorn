@@ -4,15 +4,15 @@
 - site: https://twitter.com/VOLHOMES
   icon: 'twitter'
   show: true
-- site: linkedin.com/in/
+- site: https://www.linkedin.com/pub/vol-homes/85/525/365
   icon: 'linkedin'
-  show: false
+  show: true
 - site: pinterest.com/
   icon: 'pinterest'
   show: false
-- site: youtube.com/
+- site: https://www.youtube.com/channel/UCrrvUyH5o0eFW2bYTldP7KQ
   icon: 'youtube'
-  show: false
+  show: true
 - site: google.com/plus/
   icon: 'google-plus'
   show: false
