@@ -1,28 +1,22 @@
 ---
-layout: default
+layout: page
 title: Need to Sell?
 permalink: /blog/
 ---
 
-<div class="home">
-
-  <div class="site-intro">
-    <h1 class="center">Need to Sell?</h1>
-    <p class="meta center">A blog with tips to sell your house FAST</p>
-  </div>
-
-  <hr>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-    <li>
-      <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-      <p>{{ post.excerpt }}</p>
-    </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="site-intro">
+  <h1 class="center">Need to Sell?</h1>
+  <p class="meta center">A blog with tips to sell your house FAST</p>
 </div>
+
+<hr>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+    <p>{{ post.excerpt }}</p>
+  </li>
+  {% endfor %}
+</ul>
