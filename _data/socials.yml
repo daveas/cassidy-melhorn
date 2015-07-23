@@ -1,9 +1,9 @@
-- site: facebook.com/
+- site: https://www.facebook.com/volhomes
   icon: 'facebook'
-  show: false
-- site: twitter.com/
+  show: true
+- site: https://twitter.com/VOLHOMES
   icon: 'twitter'
-  show: false
+  show: true
 - site: linkedin.com/in/
   icon: 'linkedin'
   show: false
