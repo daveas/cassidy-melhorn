@@ -12,4 +12,4 @@ On Prose, you edit text in a format called markdown.
 #### Posts:
 On prose, you can create, edit, and delete posts.
 
-(this guide will be updated to be more thorough)
+(this guide will be updated to be more thorough - see [prose](https://github.com/prose/prose/wiki/Getting-Started))
