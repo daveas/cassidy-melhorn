@@ -13,6 +13,9 @@
 - site: youtube.com/
   icon: 'youtube'
   show: false
+- site: google.com/plus/
+  icon: 'google-plus'
+  show: false
 - site: instagram.com/
   icon: 'instagram'
   show: false
