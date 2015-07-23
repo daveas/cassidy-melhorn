@@ -37,6 +37,7 @@ $on-laptop:        900px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+@import "normalize";
 @import "base";
 @import "custom";
 @import "grid";
