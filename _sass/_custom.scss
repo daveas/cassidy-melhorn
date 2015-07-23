@@ -232,3 +232,13 @@ hr {
 .brand-color {
   color: $brand-color;
 }
+
+.plain-link {
+  color: $text-color;
+  text-decoration: none;
+  
+  &:visited {
+   color: $text-color;
+   text-decoration: none;
+  }
+}
