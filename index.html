@@ -13,9 +13,9 @@ layout: home
 		<div class="wrapper">
 			<div class="services grid">
 				{% include markdown.html path="_home/top_of_page.md" %}
-				<div class="unit one-third"><i class="fa fa-home fa-5x"></i><br /><p>Sell your home fast!<p></div>
-				<div class="unit one-third"><i class="fa fa-usd fa-5x"></i><br /><p>Get a fair price</p></div>
-				<div class="unit one-third"><i class="fa fa-check fa-5x"></i><br /><p>Make it easy</p></div>
+				<a href="/sell-your-house"><div class="unit one-third"><i class="fa fa-home fa-5x"></i><br /><p>{% include _home/icon-home-text.md %}<p></div></a>
+				<a href="/sell-your-house"><div class="unit one-third"><i class="fa fa-usd fa-5x"></i><br /><p>{% include _home/icon-dollar-text.md %}</p></div></a>
+				<a href="{{site.phone}}"><div class="unit one-third"><i class="fa fa-phone fa-5x"></i><br /><p>{% include _home/icon-phone-text.md %}</p></div></a>
 			</div>
 
 			<div class="home-images">
