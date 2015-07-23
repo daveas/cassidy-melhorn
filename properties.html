@@ -1,24 +1,18 @@
 ---
-layout: default
+layout: page
 title: Properties
 permalink: /properties-for-sale/
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Properties</h1>
-
-  <div class="post-list">
-    {% assign properties = site.properties | sort: 'date' %}
-    {% for property in properties reversed %}
-    <section id="#{{property.title | downcase | replace: " ", "-" }}">
-      <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
-      <p class="post-meta">
-        {% if property.date %}{{ property.date | date: "%b %-d, %Y" }}{% endif %}<br>
-        {% if property.price %}{{ property.price }}{% endif %}
-      </p>
-    </section>
-    {% endfor %}
-  </div>
-
+<div class="post-list">
+  {% assign properties = site.properties | sort: 'date' %}
+  {% for property in properties reversed %}
+  <section id="#{{property.title | downcase | replace: " ", "-" }}">
+    <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
+    <p class="post-meta">
+      {% if property.date %}{{ property.date | date: "%b %-d, %Y" }}{% endif %}<br>
+      {% if property.price %}{{ property.price }}{% endif %}
+    </p>
+  </section>
+  {% endfor %}
 </div>
