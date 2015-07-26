@@ -1,17 +1,6 @@
-@mixin center {
+.center {
   margin: 0 auto;
   text-align: center;
-}
-
-@mixin meta {
-  color: $gray-color;
-  font-size: $small-size;
-  ul {
-    list-style-type: none;
-    li {
-      display: block;
-    }
-  }
 }
 
 .collapse{
@@ -57,11 +46,11 @@ hr {
   }
   h1 {
     padding-top: 200px;
-    @include center;
+    @extend .center;
     margin: $spacing-unit/2;
   }
   p {
-    @include center;
+    @extend .center;
     margin: $spacing-unit/2;
   }
   @include media-query($on-laptop) {
@@ -167,8 +156,8 @@ hr {
   font-size: $body-size;
   text-align: center;
   margin: 0 auto;
-  width: 175px;
-  height: 30px;
+  min-width: 175px;
+  min-height: 30px;
   line-height: 30px;
   white-space: nowrap;
 
@@ -177,54 +166,26 @@ hr {
   -moz-transition: all 0.3s ease 0s;
   -webkit-transition: all 0.3s ease 0s;
 
-  &:hover, &:hover, &:focus {
+  &:visited, &:hover, &:focus {
     text-decoration: none;
   }
-
-}
-
-.button-fix {
-  padding-top: 80px;
 }
 
 .button-brand {
-  display: inline-block;
-  text-align: center;
-  margin: 0 auto;
-  width: 175px;
-
   color: white;
   background-color: $brand-color;
   border: 2px solid white;
   border-radius: 15px;
-    
-  &:hover, &:hover, &:focus {
+
+  &:visited, &:hover, &:focus {
     color: $brand-color;
     background-color: white;
     border: 2px solid $brand-color;
   }
 }
 
-.button-white {
-  display: inline-block;
-  text-align: center;
-  margin: 0 auto;
-  width: 175px;
-
-  color: $brand-color;
-  background-color: white;
-  border: 2px solid $brand-color;
-  border-radius: 15px;
-    
-  &:hover, &:hover, &:focus {
-    color: white;
-    background-color: $brand-color;
-    border: 2px solid white;
-  }
-}
-
-.input-group {
-  ul {
+.no-bullets {
+  ul, ol {
     list-style-type: none;
   }
 }
@@ -236,9 +197,45 @@ hr {
 .plain-link {
   color: $text-color;
   text-decoration: none;
-  
+
   &:visited {
    color: $text-color;
    text-decoration: none;
   }
 }
+
+.big-button {
+  font-size: 40px;
+  width: 50%;
+  border: 2px solid $brand-color;
+  border-radius: 30px;
+
+  &:hover, &:hover, &:focus {
+    color: white;
+    background-color: $brand-color;
+    border: 2px solid white;
+  }
+}
+
+.mc-field-group ol, ul {
+  margin-bottom: 20px;
+}
+
+.mc-field-group li {
+  margin: 0;
+  padding: 3px;
+}
+
+.mc-field-group ul, ol {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.mc-field-group li {
+  text-align: left;
+}
+
+.iframe-wrapper  {width:100%;height:100%;margin:0 auto;background:#CCC}
+.h_iframe        {position:relative;}
+.h_iframe .ratio {display:block;width:100%;height:auto;}
+.h_iframe iframe {position:absolute;top:0;left:0;width:100%; height:100%;}

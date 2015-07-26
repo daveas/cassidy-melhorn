@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {% include head.html %}
+  {% include analytics.html %}
+</head>
+
+<body>
+
+  <div class="page-content" id="top">
+    <div class="wrapper">
+      <div class="post">
+
+        <header class="post-header center" style="padding-left:10%;padding-right:10%;">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+
+        <article class="post-content">
+          {{ content }}
+        </article>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="center">
+    <a href="{{ site.baseurl }}/">
+      <img src="{{ site.icon }}"></img><br>
+      <small>go back</small>
+    </a>
+  </div>
+
+</body>
+
+</html>

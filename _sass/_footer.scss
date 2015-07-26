@@ -6,7 +6,7 @@
   border-top: 3px solid $brand-color;
   padding: $spacing-unit;
   font-size: $small-size;
-  @include center;
+  @extend .center;
   a {
     color: $brand-color;
   }
