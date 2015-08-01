@@ -1,7 +1,7 @@
 # Prose Settings
 prose:
   siteurl: '' # same as site.basurl
-  media: '/assets'
+  media: '/assets/images'
   ignore:
     - '.DS_Store'
     - '.gitignore'
