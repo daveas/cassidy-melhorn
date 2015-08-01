@@ -13,6 +13,7 @@ prose:
     - '404.md'
     - 'README.md'
     - '_config.yml'
+    - '_prose.yml'
     - '/_layouts'
     - '/_sass'
     - '/_site'
