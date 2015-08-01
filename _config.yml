@@ -20,7 +20,7 @@ exclude:
 collections:
   properties:
     output: true
-    permalink: /properties-for-sale/:path/
+    permalink: /properties-for-sale/:title/
 gems:
   - jemoji
   - jekyll-sitemap

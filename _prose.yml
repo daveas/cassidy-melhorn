@@ -1,7 +1,7 @@
 # Prose Settings
 prose:
   siteurl: '' # same as site.basurl
-  media: '/assets/images'
+  media: '/assets/images/main'
   ignore:
     - '.DS_Store'
     - '.gitignore'
@@ -11,7 +11,6 @@ prose:
     - 'Gemfile.lock'
     - 'CNAME'
     - '404.md'
-    - 'README.md'
     - '_config.yml'
     - '_prose.yml'
     - '/_layouts'
