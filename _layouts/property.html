@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="home">
   <div class="post">
-    
+
     <header class="post-header">
       <h2>{{ page.title }}</h2>
       <p class="post-meta">
-        {% if page.date %}Listed on {{ page.date | date: "%b %-d, %Y" }}{% endif %}<br>
+        {% if page.list-date %}Listed on {{ page.list-date | date: "%b %-d, %Y" }}{% endif %}<br>
         {% if page.price %}Priced at {{ page.price }}{% endif %}<br>
         {% if page.sold %}SOLD{% elsif page.sold == false %}FOR SALE{% else %}{% endif %}
       </p>
@@ -16,7 +16,7 @@ layout: default
     <article class="post-content">
       {{ content }}
     </article>
-    
+
     <iframe width="100%" height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key={{site.mapkey}}&q={{page.address | replace: " ", "+" }}" allowfullscreen"></iframe>
 
   </div>

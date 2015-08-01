@@ -1,7 +1,7 @@
 ---
 title: 2 Bedroom 1 Bath House off Miami Street in Knoxville
 address: 3317 Miami St, Knoxville, TN
-date: 2015-06-01
+list-date: 2015-06-02
 sold: false
 price: $46,500
 ---

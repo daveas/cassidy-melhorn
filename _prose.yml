@@ -39,21 +39,19 @@ prose:
           element: "text"
           label: "Address"
           placeholder: "example: 1099 Commerce Park Drive Oak Ridge, TN 37830"
-      - name: "date"
+      - name: "list-date"
         field:
           element: "text"
-          label: "Date"
+          label: "List Date"
           help: "enter as: YYYY-MM-DD"
           placeholder: "example: 2015-05-30"
       - name: "sold"
         field:
-          element: "select"
-          label: "Sold/Unsold"
-          options:
-            - name: 'Sold'
-              value: 'true'
-            - name: 'Unsold'
-              value: 'false'
+          element: "button"
+          label: Sold/Unsold
+          help: Toggle for sold or unsold
+          on: "sold"
+          off: "unsold"
       - name: "price"
         field:
           element: "text"

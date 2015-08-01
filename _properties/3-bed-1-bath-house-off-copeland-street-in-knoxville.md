@@ -1,7 +1,7 @@
 ---
 title: 3 Bedroom 1 Bath house off Copeland Street in Knoxville
 address: 2704 Copeland St, Knoxville, TN
-date: 2015-06-01
+list-date: 2015-06-01
 sold: false
 price: $53,900
 ---

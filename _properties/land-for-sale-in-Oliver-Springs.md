@@ -1,14 +1,9 @@
 ---
 title: Land For Sale in Oliver Springs
 address: "10386 Highway 116 Oliver Springs, TN 37840"
-date:
-  - 2015-06-01T00:00:00.000Z
-  - "Sun May 31 2015 19:00:00 GMT-0500 (CDT)"
-sold:
-  - false
-  - "false"
+list-date: 2015-06-01
+sold: false
 price: "$95,000"
-published: true
 ---
 
 
