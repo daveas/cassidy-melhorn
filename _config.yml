@@ -29,3 +29,7 @@ defaults:
       type: properties
     values:
       layout: property
+  - scope:
+      type: posts
+    values:
+      layout: post

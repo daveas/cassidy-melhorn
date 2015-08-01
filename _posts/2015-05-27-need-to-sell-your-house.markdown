@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Need to Sell Your House?"
 date:   2015-05-27
 ---

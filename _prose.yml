@@ -19,12 +19,37 @@ prose:
     - '/css'
   metadata:
     _posts:
-      - name: "layout"
+      - name: "title"
         field:
-          element: "hidden"
-          value: "post"
-    _posts/static:
-      - name: "layout"
+          element: "text"
+          placeholder: "example: 5 Tips to Sell Your Home Fast"
+      - name: "date"
         field:
-          element: "hidden"
-          value: "page"
+          element: "text"
+          help: "YYYY-MM-DD"
+          placeholder: "example: 2015-05-30"
+    _properties:
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "example: Commercial Property for sale in Oak Ridge, TN"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Address"
+          placeholder: "example: 1099 Commerce Park Drive Oak Ridge, TN"
+      - name: "date"
+        field:
+          element: "text"
+          help: "YYYY-MM-DD"
+          placeholder: "example: 2015-05-30"
+      - name: "sold"
+        field:
+          element: "checkbox"
+          label: "Sold/Unsold"
+          help: "click to toggle"
+          value: false
+      - name: "price"
+        field:
+          element: "text"
+          placeholder: "example: $200,000"
