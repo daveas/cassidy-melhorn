@@ -12,7 +12,6 @@ prose:
     - 'CNAME'
     - '404.md'
     - '_config.yml'
-    - '_prose.yml'
     - '/_layouts'
     - '/_sass'
     - '/_site'
