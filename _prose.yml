@@ -32,24 +32,30 @@ prose:
       - name: "title"
         field:
           element: "text"
+          label: "Listing Title"
           placeholder: "example: Commercial Property for sale in Oak Ridge, TN"
       - name: "address"
         field:
           element: "text"
           label: "Address"
-          placeholder: "example: 1099 Commerce Park Drive Oak Ridge, TN"
+          placeholder: "example: 1099 Commerce Park Drive Oak Ridge, TN 37830"
       - name: "date"
         field:
           element: "text"
-          help: "YYYY-MM-DD"
+          label: "Date"
+          help: "enter as: YYYY-MM-DD"
           placeholder: "example: 2015-05-30"
       - name: "sold"
         field:
-          element: "checkbox"
+          element: "select"
           label: "Sold/Unsold"
-          help: "click to toggle"
-          value: false
+          options:
+            - name: 'Sold'
+              value: 'true'
+            - name: 'Unsold'
+              value: 'false'
       - name: "price"
         field:
           element: "text"
+          label: "Price"
           placeholder: "example: $200,000"
