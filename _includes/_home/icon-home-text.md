@@ -1,1 +1,1 @@
-Sell your home fast!
+Sell your house fast!
