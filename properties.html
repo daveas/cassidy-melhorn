@@ -7,12 +7,13 @@ permalink: /properties-for-sale/
 <div class="post-list">
   {% assign properties = site.properties | sort: 'date' %}
   {% for property in properties reversed %}
-  <section id="#{{property.title | downcase | replace: " ", "-" }}">
+  <section id="#{{ property.title | downcase | replace: " ", "-" }}">
     <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
     <p class="post-meta">
       {% if property.list-date %}{{ property.list-date | date: "%b %-d, %Y" }}{% endif %}<br>
-      {% if property.price %}{{ property.price }}{% endif %}
+      {% if property.price %}{{ property.price }}{% endif %}<br>
     </p>
+    {% if property.picture %}<img src="/assets/images/main/{{ property.picture }}" alt="picture of {{ property.title }}">{% endif %}<br>
   </section>
   {% endfor %}
 </div>

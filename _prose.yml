@@ -56,3 +56,8 @@ prose:
           element: "text"
           label: "Price"
           placeholder: "example: $200,000"
+      - name: "picture"
+        field:
+          element: "text"
+          label: "Picture"
+          placeholder: "example: filename.jpg"

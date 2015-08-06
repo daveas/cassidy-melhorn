@@ -5,6 +5,7 @@ address: "2704 Copeland St, Knoxville, TN"
 sold: false
 price: "$53,900"
 published: true
+picture: 20150802203200189803000000-o.jpg
 ---
 
 
@@ -20,4 +21,3 @@ Recently completely renovated craftsman 3br home with updated HVAC unit, cabinet
 ![20150802202802896630000000-o.jpg]({{site.baseurl}}/assets/images/main/20150802202802896630000000-o.jpg)
 ![20150802202648869978000000-o.jpg]({{site.baseurl}}/assets/images/main/20150802202648869978000000-o.jpg)
 ![20150802203051262205000000-o.jpg]({{site.baseurl}}/assets/images/main/20150802203051262205000000-o.jpg)
-

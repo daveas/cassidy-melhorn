@@ -5,6 +5,7 @@ address: "10386 Highway 116 Oliver Springs, TN 37840"
 sold: false
 price: "$95,000"
 published: true
+picture: 2ba95074.jpg
 ---
 
 
