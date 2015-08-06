@@ -10,7 +10,7 @@
 - site: pinterest.com/
   icon: 'pinterest'
   show: false
-- site: https://www.youtube.com/channel/UCrrvUyH5o0eFW2bYTldP7KQ
+- site: https://www.youtube.com/channel/UCrrvUyH5o0eFW2bYTIdP7KQ
   icon: 'youtube'
   show: true
 - site: google.com/plus/
