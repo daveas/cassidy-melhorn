@@ -1,6 +1,5 @@
 ---
-date: ""
-published: false
+date:   2015-08-25
 title: "How to Stop Foreclosure in Knoxville, TN"
 ---
 
@@ -23,5 +22,3 @@ I also want to be sure you know that if you're looking to sell your home quickly
 If there's anything I can do to assist you please don't hesitate to call my office at: 865-321-8999 or email me at: volhomes1@gmail.com
 
 Please visit our website at http://volhomes.com
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
