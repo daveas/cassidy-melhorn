@@ -1,7 +1,6 @@
 ---
-date: "Forbearance-to-Stop-Foreclosure-Knoxville-TN"
-published: false
-title: "Use-Forbearance-to-Avoid-Foreclosure-in-Knoxville-TN"
+date: 2015-08-22
+title: "Use Forbearance to Avoid Foreclosure in Knoxville TN"
 ---
 
 ## If you haven't considered a forbearance to remedy missed house payments, here's why you should.
@@ -15,5 +14,3 @@ This agreement leads to reinstatement of the loan. There is no maximum duration,
 I also want to remind you that if you've thought, "I just need to ### sell my house knoxville ," I can help. I'm an active ### real estate investor currently looking for properties in your area. I can make an all cash fair market offer and close quickly.
 
 If there's anything I can do to assist you please don't hesitate to call my office at: 865-321-8999 or email me at: volhomes1@gmail.com
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
