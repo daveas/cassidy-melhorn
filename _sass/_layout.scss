@@ -26,14 +26,16 @@
 }
 
 .post-li {
- border: 1px solid D3D3D3;
- border-radius: 5px;
- margin: 10px;
+ // span {
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  margin: 10px;
+ // }
  a {
   color: $text-color;
   &:hover {
    @include pulse(
-    $duration: 10s,
+    $duration: 1s,
     $count: 1,
     $delay: .1s,
     $function: ease, 
