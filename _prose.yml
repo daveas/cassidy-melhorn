@@ -27,6 +27,13 @@ prose:
           element: "text"
           help: "YYYY-MM-DD"
           placeholder: "example: 2015-05-30"
+      - name: "published"
+        field:
+          element: "button"
+          label: published
+          help: Toggle between published or draft
+          on: "published"
+          off: "draft"
     _properties:
       - name: "title"
         field:
