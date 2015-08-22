@@ -33,7 +33,7 @@
   color: $text-color;
   &:hover {
    @include pulse(
-    $duration: 1s,
+    $duration: 10s,
     $count: 1,
     $delay: .1s,
     $function: ease, 
