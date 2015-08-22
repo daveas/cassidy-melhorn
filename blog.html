@@ -13,11 +13,11 @@ permalink: /blog/
 <ul class="post-list">
   {% for post in site.posts %}
   <li class="post-li">
-    <span><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    <div><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       <h1>{{ post.title }}</h1>
       <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
       <p>{{ post.excerpt | strip_html }}</p>
-    </a></span>
+    </a></div>
   </li>
   {% endfor %}
 </ul>
