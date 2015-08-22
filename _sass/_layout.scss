@@ -33,7 +33,9 @@
  }
  a {
   color: $text-color;
+  text-decoration: none;
   &:hover {
+   text-decoration: none;
    @include pulse(
     $duration: 1s,
     $count: 1,
