@@ -28,10 +28,17 @@
 .post-li {
  border: 1px solid $gray-color;
  border-radius: 3px;
+ margin: 10px;
  a {
   color: $text-color;
   &:hover {
-   color: $link-color;
+   @include pulse(
+    $duration: 1s,
+    $count: 1,
+    $delay: .1s,
+    $function: ease, 
+    $fill: both
+  );
   }
  }
 }
