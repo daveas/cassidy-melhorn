@@ -1,5 +1,6 @@
 ---
 title:  "Need to Sell Your House?"
+published: true
 date:   2015-05-27
 ---
 
