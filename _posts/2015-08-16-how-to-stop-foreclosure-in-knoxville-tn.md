@@ -1,5 +1,6 @@
 ---
 date:   2015-08-25
+published: true
 title: "How to Stop Foreclosure in Knoxville, TN"
 ---
 
