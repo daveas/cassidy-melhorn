@@ -7,7 +7,7 @@ title: "How to Stop Foreclosure in Knoxville, TN"
 ## Reinstatement by bringing the loan current
 You Have Options With Your House
 Important things you need to know
-Thanks for visiting our blog on "The 5 Fastest Ways To ### Stop Foreclosure in 48 Hours Or Less"
+Thanks for visiting our blog on "The 5 Fastest Ways To *Stop* Foreclosure in 48 Hours Or Less"
 
 In the first chapter of the report we talk about ### stopping the foreclosure process by bringing the loan current, also
 referred to as a reinstatement.
