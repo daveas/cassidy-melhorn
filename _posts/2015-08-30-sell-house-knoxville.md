@@ -1,7 +1,7 @@
 ---
-date: ""
+date: "2015-08-30"
 published: true
-title: "Sell-house-knoxville"
+title: "Sell House Knoxville"
 ---
 
 ## Searching "Sell house Knoxville"? You have options here!
@@ -21,5 +21,3 @@ If there's anything I can do to assist you please don't hesitate to call my offi
 Sincerely,
 Cassidy
 Vol Homes
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
