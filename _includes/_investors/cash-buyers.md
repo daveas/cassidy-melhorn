@@ -1,2 +1,2 @@
-### Want to Gain Access to Properties at 40% to 70% of ARV?
-If you are a cash buyer in Knoxville, you should be a part of our contact database, otherwise you are missing out on incredible wholesale deals. We will not contact you unless it is to inform you of a newly acquired investment property and we don’t share or sell your information under any circumstances. Click Below to Gain Access to being a member of our VIP Cash Buyers List and you will know instantly when a property becomes available!
+### Gain Access to Properties at 40% to 70% of ARV?
+If you are a cash buyer in Knoxville, you should be a part of our contact database, otherwise you are missing out on incredible wholesale deals. We will not contact you unless it is to inform you of a newly acquired investment property and we don’t share or sell your information under any circumstances. Click Below to become a member of our VIP Cash Buyers List and you will know instantly when a property becomes available!
