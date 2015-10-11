@@ -6,7 +6,7 @@ title: Hope for Stopping Foreclosure in Knoxville
 
 ### There is always hope for homeowners like you!
 
-![](/uploads/versions/fullsizerender---x----1938-2048x---.jpg)![](/uploads/versions/fullsizerender---x----1938-2048x---.jpg)
+![](/uploads/versions/fullsizerender---x----1938-2048x---.jpg)
 
 #### Have you made any progress in stopping your foreclosure?&nbsp;If you have decided to sell your house and would like to sell it quickly, I can help. I’m an active real estate investor in your area and am always looking for properties. I can make an all cash fair market offer and close quickly.
 
