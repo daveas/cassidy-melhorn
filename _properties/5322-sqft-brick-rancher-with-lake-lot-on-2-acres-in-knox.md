@@ -4,7 +4,7 @@ address: '7509 Little River Dr. Knoxville, TN 37920'
 list-date: 'Thurs Dec 24 2015 20:00:00 GMT-0400 (EDT)'
 sold: false
 price: '$279,000'
-published: true
+published: false
 picture: ''
 ---
 
