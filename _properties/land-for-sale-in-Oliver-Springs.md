@@ -17,5 +17,4 @@ picture: 2ba95074.jpg
 ![596c313f.jpg]({{site.baseurl}}/assets/images/main/596c313f.jpg)
 ![fb14ac19.jpg]({{site.baseurl}}/assets/images/main/fb14ac19.jpg)
 
-
 ![oliversprings]({{site.baseurl}}/assets/images/main/oliversprings.jpg)
