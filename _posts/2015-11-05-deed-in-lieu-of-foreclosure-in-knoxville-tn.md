@@ -23,7 +23,7 @@ Again, if you decide to sell quickly, don’t hesitate to call my office for a f
 For more information please visit:&nbsp;http://volhomes.com
 
 Sincerely,
-​Cassidy
+Cassidy
 Vol Homes
 
 #knoxville #realestate #foreclosure #webuyhouses
