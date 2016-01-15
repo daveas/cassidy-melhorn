@@ -5,7 +5,7 @@ permalink: /properties-for-sale/
 ---
 
 <div class="post-list">
-  {% assign properties = site.properties | sort: 'date' %}
+  {% assign properties = site.properties | sort: 'list-date' %}
   {% for property in properties reversed %}
   <section id="#{{ property.title | downcase | replace: " ", "-" }}">
     <h2><a href="{{ property.url | prepend: site.baseurl }}">{{ property.title }}</a></h2>
