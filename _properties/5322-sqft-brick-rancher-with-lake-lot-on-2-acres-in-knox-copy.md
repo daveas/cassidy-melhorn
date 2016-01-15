@@ -1,7 +1,7 @@
 ---
 title: '5,322 sqft Brick Rancher with Lake Lot on 2 acres in Knox'
 address: '7509 Little River Dr. Knoxville, TN 37920'
-list-date: 'Thurs Dec 24 2015 20:00:00 GMT-0400 (EDT)'
+list-date: '2015-12-24'
 sold: false
 price: '$279,000'
 published: true
