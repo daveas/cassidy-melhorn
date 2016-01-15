@@ -4,7 +4,7 @@ address: "6411 Bob Varner Rd. Knoxville, TN 37918"
 sold: false
 price: "$53,000"
 picture: Doggie.gif
-published: false
+published: true
 title: "Fountain City Dollhouse on Large Fully Fenced Lot & Creek for only $43,900"
 ---
 
