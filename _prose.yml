@@ -68,4 +68,3 @@ prose:
           element: "text"
           label: "Picture"
           placeholder: "example: filename.jpg"
-                - name: "picture"
