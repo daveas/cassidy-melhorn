@@ -33,3 +33,74 @@ defaults:
       type: posts
     values:
       layout: post
+      
+# Prose Settings
+prose:
+  siteurl: '' # same as site.basurl
+  media: 'assets/images/main'
+  ignore:
+    - '.DS_Store'
+    - '.gitignore'
+    - '*.html'
+    - '*.xml'
+    - 'Gemfile'
+    - 'Gemfile.lock'
+    - 'CNAME'
+    - '404.md'
+    - '_config.yml'
+    - '/_layouts'
+    - '/_sass'
+    - '/_site'
+    - '/css'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "example: 5 Tips to Sell Your Home Fast"
+      - name: "date"
+        field:
+          element: "text"
+          help: "YYYY-MM-DD"
+          placeholder: "example: 2015-05-30"
+      - name: "published"
+        field:
+          element: "button"
+          label: published
+          help: Toggle between published or draft
+          on: "published"
+          off: "draft"
+    _properties:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Listing Title"
+          placeholder: "example: Commercial Property for sale in Oak Ridge, TN"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Address"
+          placeholder: "example: 1099 Commerce Park Drive Oak Ridge, TN 37830"
+      - name: "list-date"
+        field:
+          element: "text"
+          label: "List Date"
+          help: "enter as: YYYY-MM-DD"
+          placeholder: "example: 2015-05-30"
+      - name: "sold"
+        field:
+          element: "button"
+          label: Sold/Unsold
+          help: Toggle for sold or unsold
+          on: "sold"
+          off: "unsold"
+      - name: "price"
+        field:
+          element: "text"
+          label: "Price"
+          placeholder: "example: $200,000"
+      - name: "picture"
+        field:
+          element: "text"
+          label: "Picture"
+          placeholder: "example: filename.jpg"
