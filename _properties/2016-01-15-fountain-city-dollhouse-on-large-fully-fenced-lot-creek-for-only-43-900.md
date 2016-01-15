@@ -5,7 +5,7 @@ sold: false
 price: "$53,000"
 picture: Doggie.gif
 published: true
-title: "Fountain City Dollhouse on Large Fully Fenced Lot & Creek for only $43,900"
+title: "Fountain City Dollhouse on Large Fully Fenced Lot & Creek for only $53,900"
 ---
 
 
