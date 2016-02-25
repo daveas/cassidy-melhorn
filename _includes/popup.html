@@ -1,1 +1,18 @@
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"a47c8b96bc73214c3ea36e1b0","lid":"4f13d1d2d2"}) })</script>
+<script>
+  swal({
+    title: 'How can we help?',
+    text: 'We can help you:',
+    html:  '<br><br><a class="popup-link" href="/sell-your-house/"><div class="button button-brand" style="color:white;"> Sell my house </a></div><br><br>' + '<a class="popup-link" href="/cash-buyers/"><div class="button button-brand" style="color:white;"> Buy a house</a></div><br><br>' + '<a class="popup-link" href="/investors/"><div class="button button-brand" style="color:white;"> Invest in property </a></div><br>',
+    type: 'info',
+    confirmButtonText: 'None of these',
+    closeOnConfirm: false
+  },
+  function() {
+    swal(
+      'Thats okay!',
+      'We will be here when you need us.',
+      'error',
+      'None of these'
+    );
+  });
+</script>
