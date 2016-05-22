@@ -1,7 +1,7 @@
 ---
 address: '5621 Ridgetop Rd Knoxville, TN 37921'
 list-date: '2016-05-22'
-sold: true
+sold: false
 price: '$92,000'
 picture: 20160521_142224.jpg
 published: true
