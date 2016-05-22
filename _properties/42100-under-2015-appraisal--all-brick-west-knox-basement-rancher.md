@@ -3,7 +3,7 @@ address: '5621 Ridgetop Rd Knoxville, TN 37921'
 list-date: '2016-05-22'
 sold: false
 price: '$92,000'
-picture: 20160521_142224.jpg
+picture: 'https://app.cloudcannon.com/sites/14894/site_files/raw/?path=uploads/20160521_142224.jpg&timestamp=6847ab5ba652152466596e6a9d388af0'
 published: true
 title: '$42,100 UNDER 2015 APPRAISAL * All Brick West Knox Basement Rancher!'
 ---
