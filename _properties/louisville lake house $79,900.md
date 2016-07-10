@@ -5,6 +5,7 @@ title: 'Louisville Lake House $79,900'
 list-date: '2016-07-10'
 price: '79,900'
 address: '3311 Big Cove Lane Louisville, TN 37777'
+picture: 00m0m_f8mxc1qesm0_1200x900.jpg
 ---
 
 
