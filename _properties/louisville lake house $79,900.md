@@ -1,6 +1,6 @@
 ---
 sold: false
-published: false
+published: true
 title: Untitled
 list-date: '2016-07-10'
 price: '79,900'
