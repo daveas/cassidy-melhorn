@@ -14,9 +14,9 @@ picture: 00m0m_f8mxc1qesm0_1200x900.jpg
 ### 2015 Tax Appraisal is $145,300 so this house Will Not Last Long. This is a very rare opportunity to purchase a quiet piece of paradise with deeded lake access to Ft. Loudon Lake in Louisville, just a 5 minute boat ride to Prater Flats. 4 bedrooms, 2.5 baths, 2,000+ finished sqft, large laundry and family room, finished area in basement which could be 5th bedroom and additional unfinished area in basement for workshop, and attached 2 car garage. Newer dimensional roof. Property could use some updating so this is a Cash Sale.
 
 - ## OPEN HOUSE WEDNESDAY JULY 13TH FROM 5:30-6:30PM
-- 
+
 - ## Only Cash offers are being considered at this time.
-- 
+
 - ## Call Owner/ Agent Don at 865-659-3526 with questions.
 
 
