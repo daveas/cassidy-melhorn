@@ -1,7 +1,7 @@
 ---
 address: 2907 Fairway Rd Knoxville TN 37917
 list-date: '2016-05-28'
-sold: false
+sold: true
 price: '$79,900'
 picture: 20160529_120620.jpg
 published: true
