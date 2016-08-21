@@ -2,14 +2,12 @@
 address: '325 Sarvis Dr Knoxville, TN 37920'
 list-date: '2016-07-19'
 sold: false
-price: '$79,900'
+price: '$75,000'
 picture: sarvis.png
 published: true
 title: 'EXCLUSIVE UNLISTED COLONIAL ESTATES 3BR RANCHER WITH FENCED YARD!'
 ---
 
-
-&nbsp;
 
 ![](/uploads/versions/20160716-175724---x----4128-2322x---.jpg)
 
@@ -23,6 +21,6 @@ Priced at almost $30,000 below 2015 Tax appraisal, this house will not last long
 
 ![](/uploads/versions/20160716-180314---x----4128-2322x---.jpg)
 
-&nbsp;
+
 
 ![](/uploads/versions/20160716-180151---x----4128-2322x---.jpg)![](/uploads/versions/20160716-180407---x0-0-4128-2322-4128-2322x---.jpg)![](/uploads/versions/20160716-180325---x----4128-2322x---.jpg)![](/uploads/versions/20160716-180334---x----4128-2322x---.jpg)
