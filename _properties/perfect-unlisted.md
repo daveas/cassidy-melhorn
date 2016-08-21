@@ -1,7 +1,7 @@
 ---
 address: '4835 E. Emory Rd Knoxville, TN 37938'
 list-date: '2016-08-01'
-sold: false
+sold: true
 price: '$69,900'
 picture: emory.png
 published: true
