@@ -4,7 +4,7 @@ list-date: '2016-05-22'
 sold: true
 price: '$92,000'
 picture: 20160521_142224.jpg
-published: true
+published: false
 title: '$42,100 UNDER 2015 APPRAISAL * All Brick West Knox Basement Rancher!'
 ---
 
