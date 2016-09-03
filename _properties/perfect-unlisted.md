@@ -4,7 +4,7 @@ list-date: '2016-08-01'
 sold: true
 price: '$69,900'
 picture: emory.png
-published: true
+published: false
 title: "*UNLISTED* 1930's BRICK CRAFTSMAN IN HALLS ONLY $69,900!"
 ---
 
