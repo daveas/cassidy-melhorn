@@ -1,7 +1,7 @@
 ---
 address: 6818 Drybrook Ln Knoxville TN 37921
 list-date: '2016-08-27'
-sold: false
+sold: true
 price: '$99,000'
 picture: drybrook.png
 published: true
