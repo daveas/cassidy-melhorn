@@ -14,7 +14,7 @@ title: 'COLONIAL ESTATES 3BR RANCHER WITH FENCED YARD ONLY $75,000!'
 * **325 Sarvis Dr Knoxville, TN 37920**
 
 
-Priced at nearly $35,000 below 2015 Tax appraisal, this house will not last long! 3 bedrooms, 1 bath, 1,352 sqft rancher with beautiful hardwood floors, newer vinyl windows, newer dimensional roof, and all appliances convey. Home is located only minutes from downtown Knoxville in the Historic Colonial Village neighborhood off Chapman Hwy. Take a right onto W. Lake Forest off Chapman Hwy and onto Sarvis Dr. This is a great flip house or rental.
+This house will not last long! 3 bedrooms, 1 bath, 1,352 sqft rancher with beautiful hardwood floors, newer vinyl windows, newer dimensional roof, and all appliances convey. Home is located only minutes from downtown Knoxville in the Historic Colonial Village neighborhood off Chapman Hwy. Take a right onto W. Lake Forest off Chapman Hwy and onto Sarvis Dr. This is a great flip house or rental.
 
 * **Cash is Preferred.**
 * **Call Owner/Agent Don 865-659-3526**
