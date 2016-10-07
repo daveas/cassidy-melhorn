@@ -1,9 +1,21 @@
 ---
-address: '6411 Bob Varner Rd. Knoxville, TN 37918'
-list-date: '2016-01-11'
-sold: true
-price: '$53,900'
-picture: bobvarner.png
+address: 746 Hill Cir Oliver Springs TN 37840
+list-date: '2016-10-7'
+sold: false
+price: '$45,000'
+picture: hill.png
 published: true
 title: 'Oliver Springs Brick Basement Rancher on 1.5AC * $45,000*'
 ---
+
+
+* **746 Hill Circle Oliver Springs TN 37840**
+* **$45,000 is As-Is Cash Price**
+
+
+Great opportunity to buy an all brick 3/2 basement rancher on 1.5 acres in Oliver Springs. Highly coveted area due to 10 minute proximity to Oak Ridge. Large gently rolling lot with adjoining lot and large carport included. House is in currently in living condition and could be rented with little to no cost. However, if updated, home would sell for significantly more. Great flip opportunity. Don't miss it.&nbsp;
+
+* **Call Owner/agent Don at 865-659-3526**
+
+
+![](/uploads/versions/20161006-182613---x----4128-2322x---.jpg)![](/uploads/versions/20161006-182650---x----4128-2322x---.jpg)![](/uploads/versions/20161006-182715---x----4128-2322x---.jpg)![](/uploads/versions/20161006-182842---x----4128-2322x---.jpg)![](/uploads/versions/20161006-182553---x----4128-2322x---.jpg)![](/uploads/versions/20161006-183108---x----4128-2322x---.jpg)![](/uploads/versions/20161006-183333---x----4128-2322x---.jpg)![](/uploads/versions/20161006-181918---x----4128-2322x---.jpg)![](/uploads/versions/20161006-115506---x----4128-2322x---.jpg)![](/uploads/versions/20161006-181643---x----4128-2322x---.jpg)![](/uploads/versions/20161006-182921---x----4128-2322x---.jpg)![](/uploads/versions/20161006-182955---x----4128-2322x---.jpg)![](/uploads/versions/20161006-181611---x----4128-2322x---.jpg)![](/uploads/versions/20161006-181816---x----4128-2322x---.jpg)
