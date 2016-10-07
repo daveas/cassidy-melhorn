@@ -5,10 +5,11 @@ sold: false
 price: '$45,000'
 picture: hill.png
 published: true
-title: 'Oliver Springs Brick Basement Rancher on 1.5AC * $45,000*'
+title: '$58,000 BELOW 2015 APPRAISAL- OLIVER SPRINGS RANCHER ONLY $45,000!'
 ---
 
 
+* &nbsp;
 * **746 Hill Circle Oliver Springs TN 37840**
 * **$45,000 is As-Is Cash Price**
 
