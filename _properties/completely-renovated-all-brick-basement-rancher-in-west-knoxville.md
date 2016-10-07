@@ -2,7 +2,7 @@
 address: 5621 Ridgetop Rd Knoxville TN 37921
 list-date: '2016-09-01'
 sold: false
-price: '$133,000'
+price: '$134,000'
 picture: ridgetop.png
 published: true
 title: COMPLETELY RENOVATED ALL BRICK BASEMENT RANCHER IN WEST KNOXVILLE
