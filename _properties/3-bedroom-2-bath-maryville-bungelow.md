@@ -1,7 +1,7 @@
 ---
 address: '2501 Cecelia Ave Maryville, TN 37804'
 list-date: '2016-8-20'
-sold: false
+sold: true
 price: '$59,000'
 picture: cecelia
 published: true
@@ -9,7 +9,7 @@ title: '3 BR 2 BA MARYVILLE BUNGALOW FIXER UPPER ONLY $59,000!'
 ---
 
 
-1,467 sqft home in Maryville with 3 bedrooms and 2 baths. This house is a perfect flip opportunity! It could use windows, paint, and new flooring but has a Newer Roof and Newer HVAC unit. Home has a huge backyard, screened in porch, and attached 1 car garage.&nbsp;
+1,467 sqft home in Maryville with 3 bedrooms and 2 baths. This house is a perfect flip opportunity! It could use windows, paint, and new flooring but has a Newer Roof and Newer HVAC unit. Home has a huge backyard, screened in porch, and attached 1 car garage.
 
 * Cash Preferred
 * Call owner/agent Don 865-659-3526
