@@ -2,17 +2,17 @@
 address: 4835 E. Emory Rd Knoxville TN 37938
 list-date: '2016-09-17'
 sold: false
-price: '$79,000'
+price: '$74,000'
 picture: emory.png
 published: true
-title: "1930's CRAFTSMAN IN HEART OF HALLS ONLY $79,000!"
+title: "1930's CRAFTSMAN IN HEART OF HALLS ONLY $74,000!"
 ---
 
 
 * **4835 E. Emory Rd. Knoxville, TN 37938**
 
 
-Adorable cottage all brick craftsman with original hardwood floors (restored)! Exterior of home has been painted and new custom-built shutters added. Bathroom and kitchen have been fully renovated. This home has such great character with all original wood trim, French doors leading from dining-room to kitchen and original built-ins. At only $79,000, it's a no-brainer!
+Adorable cottage all brick craftsman with original hardwood floors (restored)! Exterior of home has been painted and new custom-built shutters added. Bathroom and kitchen have been fully renovated. This home has such great character with all original wood trim, French doors leading from dining-room to kitchen and original built-ins. At only $74,000, it's a no-brainer!
 
 * **CALL NOW: DON (865) 659-3526**
 
