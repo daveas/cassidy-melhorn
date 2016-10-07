@@ -2,10 +2,10 @@
 address: '1909 Schofield St. Knoxville, TN 37921'
 list-date: '2016-07-24'
 sold: false
-price: '$99,900'
+price: '$109,900'
 picture: schofield.png
 published: true
-title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $99,900'
+title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $109,900'
 ---
 
 
@@ -23,5 +23,3 @@ The City of Knoxville has a Historic Preservation grant for restoration projects
 <br>View additional resources [here](http://knoxheritage.org/our-work/regional-resources/). Scroll down to "grants".
 
 ![](/uploads/versions/13984404-p1020602---x----1200-900x---.jpg)![](/uploads/versions/13984405-p1020603---x----1200-900x---.jpg)![](/uploads/versions/13984403-p1020601---x----1200-900x---.jpg)![](/uploads/versions/13984406-p1020604---x----1200-900x---.jpg)![](/uploads/versions/13984408-p1020606---x----1200-900x---.jpg)![](/uploads/versions/13984407-p1020605---x----1200-900x---.jpg)![](/uploads/versions/13984409-p1020607---x----1200-900x---.jpg)![](/uploads/versions/13984410-p1020608---x----1200-900x---.jpg)![](/uploads/versions/13984411-p1020609---x----1200-900x---.jpg)![](/uploads/versions/13984412-p1020610---x----1200-900x---.jpg)![](/uploads/versions/13984413-p1020611---x----1200-900x---.jpg)![](/uploads/versions/13984417-p1020615---x----1200-900x---.jpg)
-
-&nbsp;
