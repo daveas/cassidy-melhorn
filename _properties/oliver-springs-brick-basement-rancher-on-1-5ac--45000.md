@@ -9,7 +9,7 @@ title: '$58,000 BELOW 2015 APPRAISAL- OLIVER SPRINGS RANCHER ONLY $45,000!'
 ---
 
 
-* &nbsp;
+* 2015 Tax Appraisal is Over $100K- check for yourself
 * **746 Hill Circle Oliver Springs TN 37840**
 * **$45,000 is As-Is Cash Price**
 
