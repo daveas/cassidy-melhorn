@@ -14,7 +14,7 @@ title: '$58,000 BELOW 2015 APPRAISAL- OLIVER SPRINGS RANCHER ONLY $45,000!'
 * **$45,000 is As-Is Cash Price**
 
 
-Great opportunity to buy an all brick 3/2 basement rancher on 1.5 acres in Oliver Springs. Highly coveted area due to 10 minute proximity to Oak Ridge. Large gently rolling lot with adjoining lot and large carport included. House is in currently in living condition and could be rented with little to no cost. However, if updated, home would sell for significantly more. Great flip opportunity. Don't miss it.&nbsp;
+Great opportunity to buy an all brick 2Br/2Ba basement rancher on 1.5 acres in Oliver Springs with large unfinished basement that could easily facilitate 2 additional bedrooms if finished. Highly coveted area due to 10 minute proximity to Oak Ridge. Large gently rolling lot with adjoining lot and large carport included. House is in currently in living condition and could be rented with little to no cost. However, if updated, home would sell for significantly more. Great flip opportunity. Don't miss it.&nbsp;
 
 * **Call Owner/agent Don at 865-659-3526**
 
