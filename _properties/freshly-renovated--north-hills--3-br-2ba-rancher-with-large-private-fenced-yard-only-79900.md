@@ -3,7 +3,7 @@ address: 2907 Fairway Rd Knoxville TN 37917
 list-date: '2016-05-28'
 sold: true
 price: '$79,900'
-picture: 20160529_120620.jpg
+picture: fairway.jpg
 published: true
 title: 'FRESHLY RENOVATED * North Hills * 3 BR 2BA Rancher with Large Private Fenced Yard! ONLY $79,900!'
 ---
