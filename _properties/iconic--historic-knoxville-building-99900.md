@@ -5,7 +5,7 @@ sold: false
 price: '$98,900'
 picture: schofield.png
 published: true
-title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $109,900'
+title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $98,900'
 ---
 
 
