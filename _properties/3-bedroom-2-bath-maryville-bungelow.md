@@ -4,7 +4,7 @@ list-date: '2016-8-20'
 sold: true
 price: '$59,000'
 picture: cecelia
-published: true
+published: false
 title: '3 BR 2 BA MARYVILLE BUNGALOW FIXER UPPER ONLY $59,000!'
 ---
 
