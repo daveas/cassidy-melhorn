@@ -5,7 +5,7 @@ sold: false
 price: '$159,900'
 picture: hamiltonkitchen.png
 published: true
-title: 'WOULD YA JUST LOOK AT THAT!'
+title: 'WOULD YA JUST LOOK AT THAT! JUST LOOK AT IT..'
 ---
 
 
