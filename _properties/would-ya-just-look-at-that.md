@@ -5,5 +5,5 @@ sold: true
 price: '$53,900'
 picture: bobvarner.png
 published: true
-title: WOULD YA JUST LOOK AT THAT
+title: 'WOULD YA JUST LOOK AT THAT!'
 ---
