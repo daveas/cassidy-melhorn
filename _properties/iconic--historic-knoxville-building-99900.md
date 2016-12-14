@@ -2,7 +2,7 @@
 address: '1909 Schofield St. Knoxville, TN 37921'
 list-date: '2016-07-24'
 sold: false
-price: '$98,900'
+price: '$79,900'
 picture: schofield.png
 published: true
 title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $98,900'
@@ -14,7 +14,6 @@ title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $98,900'
 This is a rare and excellent opportunity. Property is on [National Historic registry](http://archive.knoxmpc.org/historic/comm/agendas/Apr2011/1909schofield.pdf). The new [5-Lane Western Avenue](http://documents.flexmls.com/documents/knx/20160428184725401582000000.pdf?688248.5628593713) is set to run beside the property. It is approximately .67 acres and zoned partially C-3 and partially I-3 New roof and fresh paint Interior and Exterior of building have great character.
 
 * Call Owner/Agent Adam Smith 865-384-3203
-
 
 The City of Knoxville has a Historic Preservation grant for restoration projects. The next cycle will be awarded this time next year, but the call for applications will be sometime in late fall 2016. View details [here](http://knoxvilletn.gov/government/city_departments_offices/community_development/facade_improvement_program/).
 <br>
