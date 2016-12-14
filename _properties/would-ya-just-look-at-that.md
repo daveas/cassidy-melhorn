@@ -1,7 +1,7 @@
 ---
 address: 1050 Hamilton Ln Kingston TN 37763
 list-date: '2016-10-22'
-sold: false
+sold: true
 price: '$159,900'
 picture: hamiltonkitchen.png
 published: true
