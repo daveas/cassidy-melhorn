@@ -5,7 +5,7 @@ sold: false
 price: '$159,900'
 picture: damas.png
 published: true
-title: "IT'S SO CUTE I COULD CRY! West Knox Home ONLY $159,900!"
+title: 'SO CUTE I COULD CRY! West Knox Home ONLY $159,900!'
 ---
 
 
