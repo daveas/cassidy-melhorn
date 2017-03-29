@@ -10,7 +10,7 @@ title: 'HOLY SMOKES! West Knox Home ONLY $159,900!'
 
 
 * **4437 Damas Rd Knoxville, TN 37921**
-* Call for Appointment** 865-719-0221**
+* Call for Appointment **(865) 719-0221**
 
 ![](/uploads/versions/26---x----3600-2403x---.jpg)
 
@@ -19,6 +19,9 @@ First come, First serve on this absolutely gorgeous, completely renovated Home i
 ![](/uploads/versions/1---x----3600-2403x---.jpg)
 
 ![](/uploads/versions/2---x----3600-2403x---.jpg)
+
+![](/uploads/versions/3---x----3600-2403x---.jpg)
+<br>![](/uploads/versions/4---x----3600-2403x---.jpg)
 
 Victoria Pack- Owner/Agent
 <br>Realty Executives Associates
