@@ -1,7 +1,7 @@
 ---
 address: 104-106 E Hunter Circle Oak Ridge TN 37830
 list-date: '2017-04-11'
-sold: true
+sold: false
 price: '$39,900'
 picture: hunterscircle
 published: true
