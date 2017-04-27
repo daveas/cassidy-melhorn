@@ -19,4 +19,6 @@ Great opportunity to invest in commercial building with Road frontage on heavily
 
 ![](/uploads/versions/20140324-120535---x----2064-1161x---.jpeg)
 
+![](/uploads/versions/istg861z0wp5n70000000000---x----540-720x---.jpg)
+
 ![](/uploads/versions/20140324-120432---x----2064-1161x---.jpeg)![](/uploads/versions/20140324-120510---x----2064-1161x---.jpeg)![](/uploads/versions/20140324-120525---x----2064-1161x---.jpeg)![](/uploads/versions/20140324-120842---x0-0-1440-2560-1440-2560x---.jpeg)![](/uploads/versions/screen-shot-2014-03-25-at-9-29-52-pm---x----1122-559x---.png)
