@@ -10,7 +10,7 @@ title: 'ALL OFFERS MUST BE SUBMITTED BY WEDNESDAY AT NOON!'
 
 
 * **5019 Cloverdale Ln Knoxville TN 37918**
-* **All offers to be submitted by **noon on&nbsp;**Wednesday 5/10/17.**
+* **All offers to be submitted by noon on&nbsp;****Wednesday 5/10/17.**
 * **Cash only**
 * **Call Owner Cassidy at 865-719-0221**
 
