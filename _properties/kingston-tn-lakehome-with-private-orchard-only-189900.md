@@ -16,4 +16,6 @@ title: 'KINGSTON, TN LAKEHOME WITH PRIVATE ORCHARD ONLY $189,900!'
 
 ![](/uploads/versions/373edgelake-4---x----3600-2405x---.jpg)![](/uploads/versions/373edgelake-5---x----3600-2408x---.jpg)![](/uploads/versions/373edgelake-6---x----3600-2403x---.jpg)![](/uploads/versions/373edgelake-13---x----3600-2424x---.jpg)![](/uploads/versions/373edgelake-14---x----3600-2403x---.jpg)![](/uploads/versions/373edgelake-19---x----3600-2403x---.jpg)![](/uploads/versions/373edgelake-26---x----3600-2403x---.jpg)
 
-![](/uploads/versions/373edgelake-29---x----3600-2408x---.jpg)![](/uploads/versions/373edgelake-28---x----3600-2403x---.jpg)
+![](/uploads/versions/373edgelake-18---x----3600-2403x---.jpg)
+
+![](/uploads/versions/373edgelake-29---x----3600-2408x---.jpg)![](/uploads/versions/373edgelake-28---x----3600-2403x---.jpg)![](/uploads/versions/373edgelake-34---x----3600-2429x---.jpg)![](/uploads/versions/373edgelake-40---x----3600-2403x---.jpg)![](/uploads/versions/373edgelake-41---x----3600-2403x---.jpg)![](/uploads/versions/373edgelake-47---x----3600-2411x---.jpg)![](/uploads/versions/373edgelake-60---x----3600-2698x---.jpg)![](/uploads/versions/373edgelake-58---x----3600-2698x---.jpg)![](/uploads/versions/373edgelake-52---x----3600-2403x---.jpg)
