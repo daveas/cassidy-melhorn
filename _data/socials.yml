@@ -1,21 +1,21 @@
-- site: https://www.facebook.com/volhomes
-  icon: 'facebook'
+- site: 'https://www.facebook.com/volhomes'
+  icon: facebook
   show: true
-- site: https://twitter.com/VOLHOMES
-  icon: 'twitter'
+- site: 'https://twitter.com/VOLHOMES'
+  icon: twitter
   show: true
-- site: https://www.linkedin.com/pub/vol-homes/85/525/365
-  icon: 'linkedin'
+- site: 'https://www.linkedin.com/pub/vol-homes/85/525/365'
+  icon: linkedin
   show: true
 - site: pinterest.com/
-  icon: 'pinterest'
+  icon: pinterest
   show: false
-- site: https://www.youtube.com/channel/UCrrvUyH5o0eFW2bYTIdP7KQ
-  icon: 'youtube'
+- site: 'https://www.youtube.com/channel/UCrrvUyH5o0eFW2bYTIdP7KQ'
+  icon: youtube
   show: true
-- site: google.com/plus/
-  icon: 'google-plus'
-  show: false
-- site: instagram.com/
-  icon: 'instagram'
-  show: false
+- site: 'https://plus.google.com/112011044870410057993'
+  icon: google-plus
+  show: true
+- site: 'https://www.instagram.com/volhomes/'
+  icon: instagram
+  show: true
