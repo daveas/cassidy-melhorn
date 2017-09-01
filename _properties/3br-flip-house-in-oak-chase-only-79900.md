@@ -1,9 +1,18 @@
 ---
-address: '6411 Bob Varner Rd. Knoxville, TN 37918'
-list-date: '2016-01-11'
-sold: true
-price: '$53,900'
-picture: bobvarner.png
+address: '3724 Oak Chase Rd Knoxville, TN 37918'
+list-date: '2017-09-01'
+sold: false
+price: '$79,900'
+picture: oak chase
 published: true
 title: '3BR *FLIP HOUSE* IN OAK CHASE ONLY $79,900!'
 ---
+
+
+* **7324 Oak Chase Rd Knoxville, TN 37918**
+* **Call 865-321-8999**
+
+Small house + small $ = fast flip = easy money! 3 bedroom 1 bath 1250 sqft rancher in Oak Chase in Fountain City/ Halls area. ONLY $79k! Comps are doing $112-115 per sqft. House will sell quickly at 139k with a decent rehab. Here's your opportunity. Are you going to wait until its gone.... again? Cash Only. Call now. 865-321-8999
+
+![](/uploads/versions/1---x----3450-2510x---.JPG)![](/uploads/versions/2a-1---x----4032-3024x---.JPG)![](/uploads/versions/2---x----4032-3024x---.JPG)![](/uploads/versions/6---x----3305-2668x---.JPG)![](/uploads/versions/10---x----4032-3024x---.JPG)![](/uploads/versions/12a---x----4032-3024x---.JPG)![](/uploads/versions/11---x----4032-3024x---.JPG)![](/uploads/versions/13---x----4032-3024x---.JPG)![](/uploads/versions/14---x----4032-3024x---.JPG)![](/uploads/versions/16---x----4032-3024x---.JPG)![](/uploads/versions/18a---x----4032-3024x---.JPG)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAACWCAYAAACW5+B3AAAAAXNSR0IArs4c6QAABNJJREFUeAHt1MEJACAMBEG1/0rSpIJF7GvSwMEQds/MXY4AAQIEMoGTLRkiQIAAgS8gvB6BAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQICC8foAAAQKxgPDG4OYIECAgvH6AAAECsYDwxuDmCBAgILx+gAABArGA8Mbg5ggQIPAA6xcEKYE/yAAAAAAASUVORK5CYII=)
+<br>&nbsp;
