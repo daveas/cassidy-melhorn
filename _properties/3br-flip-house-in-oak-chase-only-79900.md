@@ -3,7 +3,7 @@ address: '3724 Oak Chase Rd Knoxville, TN 37918'
 list-date: '2017-09-01'
 sold: false
 price: '$79,900'
-picture: 1.JPG
+picture: 1-3.JPG
 published: true
 title: '3BR *FLIP HOUSE* IN OAK CHASE ONLY $79,900!'
 ---
