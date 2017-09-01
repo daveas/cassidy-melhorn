@@ -5,7 +5,7 @@ sold: false
 price: '$79,900'
 picture: 1-3.JPG
 published: true
-title: '3BR *FLIP HOUSE* IN OAK CHASE ONLY $79,900!'
+title: '3BR *FLIP HOUSE* IN OAK CHASE ONLY $79,900!!'
 ---
 
 
