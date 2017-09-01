@@ -16,4 +16,4 @@ Small house + small $ = fast flip = easy money! 3 bedroom 1 bath 1250 sqft ranch
 
 ![](/uploads/versions/1-2---x----3000-2183x---.JPG)![](/uploads/versions/2-1---x----3000-2250x---.JPG)![](/uploads/versions/2a-2---x----3000-2250x---.JPG)![](/uploads/versions/6-1---x----3000-2423x---.JPG)![](/uploads/versions/10-1---x----3000-2250x---.JPG)![](/uploads/versions/11-1---x----3000-2250x---.JPG)![](/uploads/versions/12a-1---x----3000-2250x---.JPG)![](/uploads/versions/13-1---x----3000-2250x---.JPG)![](/uploads/versions/14-1---x----3000-4005x---.JPG)
 
-![](/uploads/versions/15b---x----3000-4005x---.JPG)![](/uploads/versions/16-1---x----3000-2250x---.JPG)![](/uploads/versions/18a-2---x----3000-2250x---.JPG)![](/uploads/versions/20-1---x----3000-2250x---.JPG)![](/uploads/versions/19-1---x----3000-2250x---.JPG)
+![](/uploads/versions/15b---x----3000-4005x---.JPG)![](/uploads/versions/16-1---x----3000-2250x---.JPG)![](/uploads/versions/18a-2---x----3000-2250x---.JPG)![](/uploads/versions/20-1---x----3000-2250x---.JPG)![](/uploads/versions/19-1---x----3000-2250x---.JPG)![](/uploads/versions/22-1---x----3000-2250x---.JPG)
