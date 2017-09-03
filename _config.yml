@@ -7,7 +7,8 @@ url: 'http://volhomes.com'
 phone: '865-321-8999'
 icon: /assets/images/VolHomes.svg
 analytics: UA-45371817-2
-mapkey: 'AIzaSyCtcGwRHbo0vJVV0YvFmutoH009c0BAeVY'
+mapkey: 'AIzaSyBHPfAfzDmO8Qw-o3Rtz0u833SPIbIvCB0'
+# mapkey: 'AIzaSyCtcGwRHbo0vJVV0YvFmutoH009c0BAeVY'
 
 # Build settings
 markdown: kramdown
