@@ -13,7 +13,7 @@ permalink: /properties-for-sale/
       {% if property.list-date %}{{ property.list-date | date: "%b %-d, %Y" }}{% endif %}<br>
       {% if property.price %}{{ property.price }}{% endif %}<br>
     </p>
-    {% if property.picture %}<img src="/assets/images/main/{{ property.picture }}" alt="picture of {{ property.title }}">{% endif %}<br>
+    {% if property.picture %}<img src="/uploads/{{ property.picture }}" alt="picture of {{ property.title }}">{% endif %}<br>
     {% if property.image %}<img src="{{ property.image }}" alt="picture of {{ property.title }}">{% endif %}<br>
   </section>
   {% endfor %}
