@@ -7,6 +7,34 @@
 
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+<meta property="og:url" content="{{ page.url | prepend: site.url }}" />
+<meta property="og:type" content="website" />
+
+
+{% assign properties = site.properties %}
+{% assign property = false %}
+{% for property in properties %}
+    {% if property.url == page.url %}
+    <meta property="og:title" content="{{property.title}}" />
+    <meta property="og:description" content="{% if property.price %}price: {{ property.price }}{% endif %} | {% if property.list-date %}listed: {{ property.list-date | date: "%b %-d, %Y" }}{% endif %} | {{property.title}}" />
+        {% if property.picture %}
+            <meta property="og:image" content="{{ property.picture | prepend: site.uploads_url }}" />
+            {% assign property = true %}
+        {% elsif property.image %}
+            <meta property="og:image" content="{{ property.image | prepend: site.images_url }}" />
+            {% assign property = true %}
+        {% endif %}
+    {% else %}
+        {% assign not_property = true %}
+    {% endif %}
+{% endfor %}
+
+{% if property == false %}
+<meta property="og:image" content="{{ site.icon | prepend: site.url }}" />
+<meta property="og:description" content="{{site.description}}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+{% endif %}
+
 <link rel="stylesheet" href="{{ "/assets/stylesheets/main.css" | prepend: site.baseurl }}">
 <link rel="stylesheet" href="{{ "/assets/stylesheets/sweetalert2.css" | prepend: site.baseurl }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

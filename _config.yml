@@ -4,6 +4,8 @@ author: Vol Homes
 email: volhomes1@gmail.com
 description: Vol Homes - Sell Your House, FAST
 url: 'http://volhomes.com'
+uploads_url: 'http://volhomes.com/uploads/'
+images_url: 'http://volhomes.com/assets/images/main/'
 phone: '865-321-8999'
 icon: /assets/images/VolHomes.svg
 analytics: UA-45371817-2
