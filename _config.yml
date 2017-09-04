@@ -8,6 +8,7 @@ uploads_url: 'http://volhomes.com/uploads/'
 images_url: 'http://volhomes.com/assets/images/main/'
 phone: '865-321-8999'
 icon: /assets/images/VolHomes.svg
+fb_id: 652170078151120
 analytics: UA-45371817-2
 mapkey: 'AIzaSyBHPfAfzDmO8Qw-o3Rtz0u833SPIbIvCB0'
 # mapkey: 'AIzaSyCtcGwRHbo0vJVV0YvFmutoH009c0BAeVY'
