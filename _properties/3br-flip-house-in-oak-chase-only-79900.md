@@ -4,14 +4,12 @@ list-date: '2017-09-01'
 sold: false
 price: '$79,900'
 picture: 1-3.JPG
-published: true
+published: false
 title: '3BR *FLIP HOUSE* IN OAK CHASE ONLY $79,900!!'
 ---
 
 
 ![](/uploads/versions/1-3---x----3000-2183x---.JPG)
-
-&nbsp;
 
 * #### **7324 Oak Chase Rd Knoxville, TN 37918**
 * #### **Call 865-719-0221**
