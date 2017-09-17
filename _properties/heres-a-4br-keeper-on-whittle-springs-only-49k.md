@@ -5,13 +5,13 @@ sold: true
 price: '$49,900'
 picture: whittle.jpg
 published: true
-title: "HERE'S A 4BR KEEPER ON WHITTLE SPRINGS! $49,900!"
+title: 'HERE''S A 4BR KEEPER ON WHITTLE SPRINGS! $49,900!'
 ---
 
 
 * **2813 Whittle Springs Rd Knoxville, TN 37917**
 * **Cash Only At this time**
-* **Call Owner/agent Don at 865-659-3526**
+* **Call 865-719-0221**
 
 Great bungalow on 4br/1ba on whittle springs! Very clean and solid house- great investment property to flip or rent. Ready to rent now. Cash only at $49,900.
 
