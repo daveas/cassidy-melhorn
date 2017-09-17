@@ -3,7 +3,7 @@ address: '1909 Schofield St. Knoxville, TN 37921'
 list-date: '2016-07-24'
 sold: false
 price: '$79,900'
-picture: schofield.png
+picture: schofield.jpg
 published: true
 title: 'ICONIC & HISTORIC KNOXVILLE BUILDING $79,900'
 ---
