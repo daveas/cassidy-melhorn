@@ -3,7 +3,7 @@ address: '2813 Whittle Springs Rd. Knoxville, TN 37917'
 list-date: '2016-10-15'
 sold: true
 price: '$49,900'
-picture: whittle.png
+picture: whittle.jpg
 published: true
 title: "HERE'S A 4BR KEEPER ON WHITTLE SPRINGS! $49,900!"
 ---
