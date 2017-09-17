@@ -3,7 +3,7 @@ address: 2301 Bainbridge Way Powell 37849
 list-date: '2016-01-24'
 sold: true
 price: '99,000'
-picture: 20151007215439344455000000-o.jpg
+picture: bainbridge.jpg
 published: true
 title: Once in a Lifetime Deal on Beautiful Powell Home in Broad Acres Area
 ---
