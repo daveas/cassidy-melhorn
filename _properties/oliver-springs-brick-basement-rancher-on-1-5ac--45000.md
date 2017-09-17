@@ -3,7 +3,7 @@ address: 746 Hill Cir Oliver Springs TN 37840
 list-date: '2016-10-7'
 sold: true
 price: '$45,000'
-picture: hill.png
+picture: oliversprings.jpg
 published: true
 title: '$58,000 BELOW 2015 APPRAISAL- OLIVER SPRINGS RANCHER ONLY $45,000!'
 ---
