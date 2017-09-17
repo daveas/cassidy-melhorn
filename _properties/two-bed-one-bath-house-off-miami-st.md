@@ -5,7 +5,7 @@ list-date: '2015-06-02'
 sold: true
 price: "$47,300"
 published: true
-picture: 20150802204217015882000000-o.jpg
+picture: miami.jpg
 ---
 
 
