@@ -3,7 +3,7 @@ address: 7509 Little River Dr Knoxville TN 37920
 list-date: '2015-12-01'
 sold: true
 price: '279,000'
-picture: 1.jpg
+picture: littleriver.jpg
 published: true
 title: '5,322 sqft Brick Basement Rancher on 2 Acres with Lakefront Lot'
 ---
