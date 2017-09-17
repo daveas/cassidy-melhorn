@@ -3,7 +3,7 @@ address: '242 S Roane St Harriman, TN 37748'
 list-date: '2017-04-28'
 sold: false
 price: '$39,900'
-picture: commercial.png
+picture: harriman.jpg
 published: true
 title: 'Harriman Commercial Property with Living Area ONLY $39,900'
 ---
