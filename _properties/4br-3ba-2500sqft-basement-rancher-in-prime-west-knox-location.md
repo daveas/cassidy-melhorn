@@ -10,7 +10,7 @@ title: '4BR 3BA 2,500sqft BASEMENT RANCHER IN PRIME WEST KNOX LOCATION!'
 
 
 * **1052 Piney Grove Church Rd Knoxville, TN 37909**
-* **Call owner/agent Don for showing 865-659-3526**
+* **Call 865-719-0221**
 
 ![](/uploads/versions/00p0p-dbycj9gto96-600x450---x----600-450x---.jpg)
 
