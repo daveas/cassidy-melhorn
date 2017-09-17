@@ -3,7 +3,7 @@ address: 442 Cedar Ave Knoxville TN 37917
 list-date: '2017-04-28'
 sold: false
 price: '$29,900'
-picture: cedarave
+picture: north.jpg
 published: true
 title: 'NORTH KNOX FIXER UPPER ONLY $29,900'
 ---
