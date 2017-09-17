@@ -3,7 +3,7 @@ address: 104-106 E Hunter Circle Oak Ridge TN 37830
 list-date: '2017-04-11'
 sold: false
 price: '$39,900'
-picture: hunterscircle
+picture: duplex.jpg
 published: true
 title: 'RENTED DUPLEX IN OAK RIDGE ONLY $39,900'
 ---
