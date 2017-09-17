@@ -1,7 +1,7 @@
 ---
 address: '4437 Damas Rd Knoxville, TN 37921'
 list-date: '2017-03-29'
-sold: false
+sold: true
 price: '$159,900'
 picture: damas.jpg
 published: true
@@ -20,26 +20,6 @@ First come, First serve on this absolutely gorgeous, completely renovated Home i
 
 ![](/uploads/versions/2---x----3600-2403x---.jpg)
 
-![](/uploads/versions/3---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/4---x----3600-2403x---.jpg)
+![](/uploads/versions/3---x----3600-2403x---.jpg)<br>![](/uploads/versions/4---x----3600-2403x---.jpg)
 
-![](/uploads/versions/5---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/6---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/7---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/8---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/9---x----3600-2416x---.jpg)
-<br>![](/uploads/versions/10---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/11---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/13-not-12---x----3600-2409x---.jpg)
-<br>![](/uploads/versions/14---x----2403-3600x---.jpg)
-<br>![](/uploads/versions/15---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/18---x----3600-2412x---.jpg)
-<br>![](/uploads/versions/22---x----3600-2408x---.jpg)
-<br>![](/uploads/versions/20---x----3600-2408x---.jpg)
-<br>![](/uploads/versions/21---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/17---x----3600-2403x---.jpg)
-<br>![](/uploads/versions/16---x----3600-2429x---.jpg)Victoria Pack- Owner/Agent
-<br>Realty Executives Associates
-<br>10255 Kingston Pike
-<br>Knoxville, TN 37922
-<br>Phone: (865) 693-3232
+![](/uploads/versions/5---x----3600-2403x---.jpg)<br>![](/uploads/versions/6---x----3600-2403x---.jpg)<br>![](/uploads/versions/7---x----3600-2403x---.jpg)<br>![](/uploads/versions/8---x----3600-2403x---.jpg)<br>![](/uploads/versions/9---x----3600-2416x---.jpg)<br>![](/uploads/versions/10---x----3600-2403x---.jpg)<br>![](/uploads/versions/11---x----3600-2403x---.jpg)<br>![](/uploads/versions/13-not-12---x----3600-2409x---.jpg)<br>![](/uploads/versions/14---x----2403-3600x---.jpg)<br>![](/uploads/versions/15---x----3600-2403x---.jpg)<br>![](/uploads/versions/18---x----3600-2412x---.jpg)<br>![](/uploads/versions/22---x----3600-2408x---.jpg)<br>![](/uploads/versions/20---x----3600-2408x---.jpg)<br>![](/uploads/versions/21---x----3600-2403x---.jpg)<br>![](/uploads/versions/17---x----3600-2403x---.jpg)<br>![](/uploads/versions/16---x----3600-2429x---.jpg)Victoria Pack- Owner/Agent<br>Realty Executives Associates<br>10255 Kingston Pike<br>Knoxville, TN 37922<br>Phone: (865) 693-3232
