@@ -12,7 +12,7 @@ title: COMPLETELY RENOVATED ALL BRICK BASEMENT RANCHER IN WEST KNOXVILLE
 ![](/uploads/versions/isqhqd2dqulagk1000000000---x----1024-768x---.jpg)
 
 * **5621 Ridgetop Rd Knoxville TN 37921**
-* **Call Owner/agent Don at 865-659-3526**
+* **Call 865-719-0221**
 
 Beautiful 3 bedroom 2 bath 1600 sqft all brick basement rancher in Northwest Knoxville/ Karns area on large fully fenced lot in quiet and well-established neighborhood with an attached garage and additional workshop area. This home features new windows, new doors, new roof, new HVAC system, new water heater, new paint, new carpet, new garage door, new soffit, new deck, new light fixtures and hardware, new appliances, new backsplash. This home is immaculate and will not last long!
 
