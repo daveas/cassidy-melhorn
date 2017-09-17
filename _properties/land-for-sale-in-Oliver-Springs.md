@@ -5,7 +5,7 @@ list-date: '2015-06-01'
 sold: false
 price: "$95,000"
 published: true
-picture: 2ba95074.jpg
+picture: land.jpg
 ---
 
 
