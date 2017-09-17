@@ -3,7 +3,7 @@ address: '2633 Parkview Ave Knoxville, TN 37914'
 list-date: '2017-05-17'
 sold: false
 price: '25000'
-picture: parkview
+picture: east.jpg
 published: true
 title: '3 BEDROOM KNOXVILLE CRAFTSMAN ONLY $25,000!'
 ---
