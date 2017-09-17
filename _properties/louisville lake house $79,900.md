@@ -15,7 +15,6 @@ picture: 00m0m_f8mxc1qesm0_1200x900.jpg
 
 * ## OPEN HOUSE WEDNESDAY JULY 13TH FROM 5:30-6:30PM
 * ## Only Cash offers are being considered at this time.
-* ## Call Owner/ Agent Don at 865-659-3526 with questions.
-
+* ## Call 865-719-0221 with questions.
 
 ![](/uploads/versions/00z0z_58zsmu4n6y4_1200x900---x----900-900x---.jpg)![](/uploads/versions/00o0o_4h37euquili_1200x900---x----900-900x---.jpg)![](/uploads/versions/00q0q_e6no0qzltkf_1200x900---x----900-900x---.jpg)![](/uploads/versions/00000_j7zwvts2ygx_1200x900---x----900-900x---.jpg)![](/uploads/versions/00v0v_ksphwwm9fmw_1200x900---x----900-900x---.jpg)![](/uploads/versions/00b0b_2y0si3d9uis_1200x900---x----900-900x---.jpg)![](/uploads/versions/00909_6xu4x6mncnk_1200x900---x----900-900x---.jpg)![](/uploads/versions/00q0q_3guwcrkae3z_1200x900---x----900-900x---.jpg)![](/uploads/versions/00s0s_aqrhdz6pnhb_1200x900---x----900-900x---.jpg)![](/uploads/versions/00m0m_f8mxc1qesm0_1200x900---x----1200-675x---.jpg)![](/uploads/versions/00l0l_80dtv8aafst_1200x900---x----1200-675x---.jpg)
