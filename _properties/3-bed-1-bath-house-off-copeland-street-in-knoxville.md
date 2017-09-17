@@ -5,7 +5,7 @@ list-date: '2015-05-31'
 sold: true
 price: "$53,900"
 published: true
-picture: "20150802203200189803000000-o.jpg"
+picture: copeland.jpg
 ---
 
 
