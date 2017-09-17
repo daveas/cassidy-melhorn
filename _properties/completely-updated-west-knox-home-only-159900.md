@@ -3,7 +3,7 @@ address: '4437 Damas Rd Knoxville, TN 37921'
 list-date: '2017-03-29'
 sold: false
 price: '$159,900'
-picture: damas.png
+picture: damas.jpg
 published: true
 title: 'SO CUTE I COULD CRY! West Knox Home ONLY $159,900!'
 ---
