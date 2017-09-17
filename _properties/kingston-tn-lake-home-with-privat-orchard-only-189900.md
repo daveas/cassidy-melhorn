@@ -4,6 +4,8 @@ list-date: '2016-01-11'
 sold: true
 price: '$53,900'
 picture: bobvarner.png
-published: true
+published: false
 title: 'KINGSTON, TN LAKE HOME WITH PRIVAT ORCHARD ONLY $189,900!'
 ---
+
+
