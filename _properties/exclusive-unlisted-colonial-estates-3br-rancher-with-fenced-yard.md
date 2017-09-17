@@ -3,7 +3,7 @@ address: '325 Sarvis Dr Knoxville, TN 37920'
 list-date: '2016-09-01'
 sold: true
 price: '$71,000'
-picture: sarvis.png
+picture: sarvis.jpg
 published: true
 title: 'COLONIAL ESTATES 3BR RANCHER WITH FENCED YARD ONLY $71,000!'
 ---
