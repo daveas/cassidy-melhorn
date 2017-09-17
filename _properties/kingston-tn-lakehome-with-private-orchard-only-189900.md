@@ -1,7 +1,7 @@
 ---
 address: '373 Edgelake Dr Kingston, TN 37763'
 list-date: '2017-08-04'
-sold: false
+sold: true
 price: '$189,900'
 picture: 373edgelake-44.jpg
 published: true
