@@ -3,7 +3,7 @@ address: 6818 Drybrook Ln Knoxville TN 37921
 list-date: '2016-08-27'
 sold: true
 price: '$99,000'
-picture: drybrook.png
+picture: drybrook.jpg
 published: true
 title: 'INCREDIBLE HOUSE IN GREAT WEST KNOX NEIGHBORHOOD ONLY $99,000!'
 ---
