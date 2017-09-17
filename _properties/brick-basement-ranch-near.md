@@ -4,6 +4,8 @@ list-date: '2016-01-11'
 sold: true
 price: '$53,900'
 picture: bobvarner.png
-published: true
+published: false
 title: BRICK BASEMENT RANCH NEAR
 ---
+
+
