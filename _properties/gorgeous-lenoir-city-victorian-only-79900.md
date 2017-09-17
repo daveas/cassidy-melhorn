@@ -3,7 +3,7 @@ address: '305 E. First Ave. Lenoir City, TN 37771'
 list-date: '2016-12-13'
 sold: true
 price: '$79,900'
-picture: First
+picture: lenoircity.jpg
 published: true
 title: 'GORGEOUS LENOIR CITY VICTORIAN ONLY $79,900'
 ---
