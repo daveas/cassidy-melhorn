@@ -3,7 +3,7 @@ address: 5019 Cloverdale Ln Knoxville TN 37918
 list-date: '2017-05-03'
 sold: false
 price: '$99,900'
-picture: cloverdale
+picture: cloverdale.jpg
 published: true
 title: 'ALL OFFERS MUST BE SUBMITTED BY WEDNESDAY AT NOON!'
 ---
