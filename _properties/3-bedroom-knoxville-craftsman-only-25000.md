@@ -1,7 +1,7 @@
 ---
 address: '2633 Parkview Ave Knoxville, TN 37914'
 list-date: '2017-05-17'
-sold: false
+sold: true
 price: '25000'
 picture: east.jpg
 published: true
