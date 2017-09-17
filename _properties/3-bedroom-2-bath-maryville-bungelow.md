@@ -1,10 +1,10 @@
 ---
 address: '2501 Cecelia Ave Maryville, TN 37804'
-list-date: '2016-8-20'
+list-date: 2016-8-20
 sold: true
 price: '$59,000'
 picture: cecelia.jpg
-published: false
+published: true
 title: '3 BR 2 BA MARYVILLE BUNGALOW FIXER UPPER ONLY $59,000!'
 ---
 
@@ -13,6 +13,5 @@ title: '3 BR 2 BA MARYVILLE BUNGALOW FIXER UPPER ONLY $59,000!'
 
 * Cash Preferred
 * Call owner/agent Don 865-659-3526
-
 
 ![](/uploads/versions/20160820-185050---x----4128-2322x---.jpg)![](/uploads/versions/20160820-184908---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185006---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185126---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185222---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185248---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185308---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185344---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185405---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185427---x----4128-2322x---.jpg)![](/uploads/versions/20160820-185611---x----4128-2322x---.jpg)
