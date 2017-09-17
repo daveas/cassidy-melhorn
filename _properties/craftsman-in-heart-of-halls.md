@@ -3,7 +3,7 @@ address: 4835 E. Emory Rd Knoxville TN 37938
 list-date: '2016-09-17'
 sold: false
 price: '$74,000'
-picture: emory.png
+picture: emory.jpg
 published: true
 title: "1930's CRAFTSMAN IN HEART OF HALLS ONLY $74,000!"
 ---
