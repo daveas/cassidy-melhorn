@@ -3,7 +3,7 @@ address: 1052 Piney Grove Church Rd Knoxville TN 37909
 list-date: '2017-04-14'
 sold: false
 price: $139900
-picture: pineygrove.png
+picture: west.jpg
 published: true
 title: '4BR 3BA 2,500sqft BASEMENT RANCHER IN PRIME WEST KNOX LOCATION!'
 ---
