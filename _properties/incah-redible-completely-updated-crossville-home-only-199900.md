@@ -1,7 +1,7 @@
 ---
 address: '56 Brookstone Dr Crossville, TN 38885'
 list-date: '2017-08-20'
-sold: false
+sold: true
 price: '$199,900'
 picture: brookstone.jpg
 published: true
