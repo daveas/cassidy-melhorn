@@ -2,7 +2,7 @@
 address: '2314 Sir Edward Ln Maryville, TN 37803'
 list-date: '2017-09-09'
 sold: false
-price: '$199,900'
+price: '$195,000'
 picture: siredward.jpg
 published: true
 title: GORGEOUS 3BR 2BA ALL BRICK RANCHER IN MARYVILLE!!
