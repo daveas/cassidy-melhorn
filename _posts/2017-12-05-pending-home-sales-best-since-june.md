@@ -5,7 +5,7 @@ title: Pending Home Sales Best Since June
 ---
 
 
-****![](/uploads/versions/contract-sale-pending-sign---x----500-356x---.jpg)Pending Home Sales Best Since June:****
+**\*\*![](/uploads/versions/contract-sale-pending-sign---x----500-356x---.jpg)Pending Home Sales Best Since June:**\*\*
 
 **The Pending Home Sales Index**, a forward-looking indicator based on contract signings, rose 3.5 percent to 109.3 in October. The index is now at its highest reading since June (110.0).
 
@@ -17,6 +17,6 @@ According to Yun, the supply and affordability headwinds seen most of the year h
 
 With two months of data remaining for the year, Yun forecasts for existing-home sales to finish at around 5.52 million, which is an increase of 1.3 percent from 2016 (5.45 million). The national median existing-home price this year is expected to increase around 6 percent. In 2016, existing sales increased 3.8 percent and prices rose 5.1 percent.<br><br>Source: [
 
-<font color="#ed5c28">National Association of Realtors</font>](https://www.nar.realtor/newsroom/pending-home-sales-strengthen-35-percent-in-october)
+<font color="#ed5c28">National Association of Realtors</font>
 
-&nbsp;
+](https://www.nar.realtor/newsroom/pending-home-sales-strengthen-35-percent-in-october)
