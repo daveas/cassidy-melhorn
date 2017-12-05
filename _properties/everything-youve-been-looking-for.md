@@ -1,10 +1,10 @@
 ---
 address: 305 Dan Cir Rockwood TN 37854
-list-date: 2017-12-1
+list-date: '2017-12-01'
 sold: false
 price: '$199,900'
 picture: dan.jpg
-published: false
+published: true
 title: EVERYTHING YOU'VE BEEN LOOKING FOR!
 ---
 
