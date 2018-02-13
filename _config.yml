@@ -28,6 +28,7 @@ collections:
     permalink: /properties-for-sale/:title/
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 defaults:
   - scope:
       type: properties
