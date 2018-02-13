@@ -13,6 +13,8 @@ fb_app_id: 1711630852476536
 analytics: UA-45371817-2
 mapkey: 'AIzaSyBHPfAfzDmO8Qw-o3Rtz0u833SPIbIvCB0'
 # mapkey: 'AIzaSyCtcGwRHbo0vJVV0YvFmutoH009c0BAeVY'
+permalink: /
+redirect_to: 'http://volhomes.com'
 
 # Build settings
 markdown: kramdown
