@@ -26,7 +26,7 @@ collections:
   properties:
     output: true
     permalink: /properties-for-sale/:title/
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 defaults:
